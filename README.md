@@ -8,11 +8,19 @@
 本程序为达到次目标而做。
 
 requirements: 
+
 python 3.x
+
 modules: requests
 
+
 使用:
+
 修改 savein，课程存储目录
+
 修改 down2()中的courseid
+
 有时需要预先下载m3u8文件，将down参数fromCache设置为True
+
 运行 python SpiderWanmen.py
+
