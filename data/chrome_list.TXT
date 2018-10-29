@@ -1,0 +1,555 @@
+﻿{
+    "hide": false,
+    "specialTrainingOrder": 0,
+    "likes": 0,
+    "type": "record",
+    "status": "finished",
+    "isOnLive": false,
+    "playbackStatus": "done",
+    "app": "uni",
+    "_id": "5b74db50d3dd5f78a6289b7f",
+    "opDuration": 0,
+    "edDuration": 0,
+    "price": 352,
+    "schedule": [
+        {
+            "_id": "5bc6fdc0830e0c0fc98f833c",
+            "name": "强化学习入门",
+            "startDate": "2018-09-08T00:00:00.000Z",
+            "startTime": "09:30",
+            "endTime": "17:00"
+        },
+        {
+            "_id": "5bc6fdc0830e0c01d38f833b",
+            "startTime": "09:30",
+            "endTime": "17:00",
+            "name": "强化学习入门",
+            "startDate": "2018-09-09T00:00:00.000Z"
+        }
+    ],
+    "name": "强化学习入门",
+    "major": "5bc6fae39275809f206f1c1b",
+    "numOfClasses": 1,
+    "description": "本课程在具有简单的机器学习的知识基础上，帮同学们梳理强化学习的脉络，引入深度强化学习的前沿问题，通过几个经典和前沿的案例，让大家理解强化学习的主要应用与挑战，能够初步掌握强化学习的概念和基本工具，可以应用这些知识阅读最新的学术文献。\n",
+    "searchCount": "5b74db4fd3dd5ff4ac289b7e",
+    "teacher": {
+        "_id": "5a190a0a37beee5855953eaa",
+        "name": "许铁",
+        "description": "以色列理工学院机器学习在读博士、巴黎高师理论物理与复杂系统硕士、cruiser创始人 , 在知名神经科学期刊著有论文。",
+        "avatar": "https://imgs.wanmen.org/7388d1ed4893f5a032e96bf34442a434.png",
+        "remainingDays": -1,
+        "id": "5a190a0a37beee5855953eaa"
+    },
+    "presentationVideo": {
+        "hls": {
+            "mobileLow": "https://media.wanmen.org/94045fee-87bb-40a0-8f37-4b3438023908_mobile_low.m3u8?sign=23c433103105aedfa99cbd3f550aa01a&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+            "pcLow": "https://media.wanmen.org/94045fee-87bb-40a0-8f37-4b3438023908_pc_low.m3u8?sign=16042dc6b57b5bb16f9bee8213bfc88d&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+            "pcHigh": "https://media.wanmen.org/94045fee-87bb-40a0-8f37-4b3438023908_pc_high.m3u8?sign=4cd19ef0821e7a58c66c0bae925bdf69&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+            "pcMid": "https://media.wanmen.org/94045fee-87bb-40a0-8f37-4b3438023908_pc_mid.m3u8?sign=1673d77213f707e8dea5148e4b68b2cb&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+            "mobileMid": "https://media.wanmen.org/94045fee-87bb-40a0-8f37-4b3438023908_mobile_mid.m3u8?sign=d47391fec72cbb5624b6a38bcd925866&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649"
+        },
+        "_id": "5b6eb0fe51f0740c4d8f30d1",
+        "id": "5b6eb0fe51f0740c4d8f30d1"
+    },
+    "openingAt": "2018-09-08T01:30:00.445Z",
+    "expiration": 12,
+    "introductionImages": [],
+    "chatGroupId": "57657602932740",
+    "chatGroupOwner": "cb2c2ed0cae5070eade5d2c7717e341d",
+    "streamKey": "44508051991983044",
+    "documents": [
+        {
+            "_id": "5b94e068b08f3f15b7d364de",
+            "name": "强化学习基础-new",
+            "order": 1,
+            "url": "https://docs.wanmen.org/f01a8eb9cb0becf8b8a468d995e66757.pdf",
+            "key": "f01a8eb9cb0becf8b8a468d995e66757",
+            "ext": "pdf"
+        }
+    ],
+    "createdAt": "2018-08-16T02:02:56.031Z",
+    "updatedAt": "2018-10-17T09:15:44.818Z",
+    "bigImage": "https://imgs.wanmen.org/4512e56cd56e27f2f2894f82d9bde2e7.png",
+    "smallImage": "https://imgs.wanmen.org/97d6949250ad897d70b470cc2c0da2c8.png",
+    "tag": "许铁 大学 强化 学习 入门 ",
+    "lastConnectedAt": 1536477769,
+    "videoCount": 17,
+    "finishedAt": "2018-10-17T09:15:44.818Z",
+    "bigImageUrl": "https://imgs.wanmen.org/4512e56cd56e27f2f2894f82d9bde2e7.png",
+    "smallImageUrl": "https://imgs.wanmen.org/97d6949250ad897d70b470cc2c0da2c8.png",
+    "teacherName": "许铁",
+    "teacherAvatar": "https://imgs.wanmen.org/7388d1ed4893f5a032e96bf34442a434.png",
+    "teacherDescription": "以色列理工学院机器学习在读博士、巴黎高师理论物理与复杂系统硕士、cruiser创始人 , 在知名神经科学期刊著有论文。",
+    "id": "5b74db50d3dd5f78a6289b7f",
+    "isPaid": true,
+    "remainingDays": 5,
+    "actions": {
+        "watch": true,
+        "download": false
+    },
+    "isLiked": false,
+    "isFaved": false,
+    "history": {
+        "_id": "5bd08931f7b5ccb84f60b71a",
+        "courseId": "5b74db50d3dd5f78a6289b7f",
+        "userId": "5bcf45e19b55bba9454cac6e",
+        "createdAt": "2018-10-24T15:01:05.269Z",
+        "courseName": "强化学习入门",
+        "lectureId": "5b9382581bd54259a0a20116",
+        "lectureName": "0908-强化学习入门（7）",
+        "imageUrl": "https://imgs.wanmen.org/4512e56cd56e27f2f2894f82d9bde2e7.png",
+        "offset": 0,
+        "timeProgress": "00:00",
+        "type": "record",
+        "app": "uni",
+        "updatedAt": "2018-10-26T01:36:57.839Z",
+        "id": "5bd08931f7b5ccb84f60b71a"
+    },
+    "isPass": false,
+    "lectures": [
+        {
+            "hls": {},
+            "actions": {
+                "watch": false,
+                "download": false
+            },
+            "hide": false,
+            "order": 2,
+            "_id": "5b9332e5f7b5ccb84f89c295",
+            "courseId": "5b74db50d3dd5f78a6289b7f",
+            "name": "最新回放",
+            "createdAt": "2018-09-08T02:24:37.424Z",
+            "updatedAt": "2018-09-09T08:13:43.550Z",
+            "id": "5b9332e5f7b5ccb84f89c295",
+            "children": [
+                {
+                    "hls": {
+                        "pcHigh": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536370166_1536373477.m3u8?sign=4c9e4892a307fd8904e6c14bde608853&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "pcMid": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536370166_1536373477.m3u8?sign=4c9e4892a307fd8904e6c14bde608853&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "pcLow": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536370166_1536373477.m3u8?sign=4c9e4892a307fd8904e6c14bde608853&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "mobileLow": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536370166_1536373477.m3u8?sign=4c9e4892a307fd8904e6c14bde608853&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "mobileMid": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536370166_1536373477.m3u8?sign=4c9e4892a307fd8904e6c14bde608853&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5b9332e51bd542e708a1fcfb",
+                    "name": "0908-强化学习入门（1）",
+                    "parentId": "5b9332e5f7b5ccb84f89c295",
+                    "courseId": "5b74db50d3dd5f78a6289b7f",
+                    "createdAt": "2018-09-08T02:24:37.463Z",
+                    "updatedAt": "2018-09-08T02:27:08.912Z",
+                    "edDuration": 0,
+                    "opDuration": 0,
+                    "id": "5b9332e51bd542e708a1fcfb",
+                    "hasTopic": false
+                },
+                {
+                    "hls": {
+                        "pcHigh": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536373907_1536376843.m3u8?sign=e21d48e2e1cee1d56927d2c34b95d061&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "pcMid": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536373907_1536376843.m3u8?sign=e21d48e2e1cee1d56927d2c34b95d061&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "pcLow": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536373907_1536376843.m3u8?sign=e21d48e2e1cee1d56927d2c34b95d061&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "mobileLow": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536373907_1536376843.m3u8?sign=e21d48e2e1cee1d56927d2c34b95d061&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "mobileMid": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536373907_1536376843.m3u8?sign=e21d48e2e1cee1d56927d2c34b95d061&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5b93400b81e6d5de09de7bbe",
+                    "name": "0908-强化学习入门（2）",
+                    "parentId": "5b9332e5f7b5ccb84f89c295",
+                    "courseId": "5b74db50d3dd5f78a6289b7f",
+                    "createdAt": "2018-09-08T03:20:43.680Z",
+                    "updatedAt": "2018-09-08T04:06:08.424Z",
+                    "edDuration": 0,
+                    "opDuration": 0,
+                    "id": "5b93400b81e6d5de09de7bbe",
+                    "hasTopic": false
+                },
+                {
+                    "hls": {
+                        "pcHigh": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536377175_1536379248.m3u8?sign=080263391c347868a871e3633824f198&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "pcMid": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536377175_1536379248.m3u8?sign=080263391c347868a871e3633824f198&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "pcLow": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536377175_1536379248.m3u8?sign=080263391c347868a871e3633824f198&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "mobileLow": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536377175_1536379248.m3u8?sign=080263391c347868a871e3633824f198&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "mobileMid": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536377175_1536379248.m3u8?sign=080263391c347868a871e3633824f198&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5b934970b08f3fb506d35830",
+                    "name": "0908-强化学习入门（3）",
+                    "parentId": "5b9332e5f7b5ccb84f89c295",
+                    "courseId": "5b74db50d3dd5f78a6289b7f",
+                    "createdAt": "2018-09-08T04:00:48.439Z",
+                    "updatedAt": "2018-09-08T04:06:15.098Z",
+                    "edDuration": 0,
+                    "opDuration": 0,
+                    "id": "5b934970b08f3fb506d35830",
+                    "hasTopic": false
+                },
+                {
+                    "hls": {
+                        "pcHigh": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536379411_1536380924.m3u8?sign=1c9221b0f8d3db3f914e1c79e36a4e54&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "pcMid": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536379411_1536380924.m3u8?sign=1c9221b0f8d3db3f914e1c79e36a4e54&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "pcLow": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536379411_1536380924.m3u8?sign=1c9221b0f8d3db3f914e1c79e36a4e54&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "mobileLow": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536379411_1536380924.m3u8?sign=1c9221b0f8d3db3f914e1c79e36a4e54&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "mobileMid": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536379411_1536380924.m3u8?sign=1c9221b0f8d3db3f914e1c79e36a4e54&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5b934ffc1bd542e63ea1ff10",
+                    "name": "0908-强化学习入门（4）",
+                    "parentId": "5b9332e5f7b5ccb84f89c295",
+                    "courseId": "5b74db50d3dd5f78a6289b7f",
+                    "createdAt": "2018-09-08T04:28:44.468Z",
+                    "updatedAt": "2018-09-08T05:29:14.265Z",
+                    "edDuration": 0,
+                    "opDuration": 0,
+                    "id": "5b934ffc1bd542e63ea1ff10",
+                    "hasTopic": false
+                },
+                {
+                    "hls": {
+                        "pcHigh": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536385059_1536387942.m3u8?sign=4dd818157c4d0cdf4e8c11a1e5201dc8&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "pcMid": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536385059_1536387942.m3u8?sign=4dd818157c4d0cdf4e8c11a1e5201dc8&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "pcLow": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536385059_1536387942.m3u8?sign=4dd818157c4d0cdf4e8c11a1e5201dc8&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "mobileLow": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536385059_1536387942.m3u8?sign=4dd818157c4d0cdf4e8c11a1e5201dc8&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "mobileMid": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536385059_1536387942.m3u8?sign=4dd818157c4d0cdf4e8c11a1e5201dc8&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5b936b66b08f3f17ffd35a1d",
+                    "name": "0908-强化学习入门（5）",
+                    "parentId": "5b9332e5f7b5ccb84f89c295",
+                    "courseId": "5b74db50d3dd5f78a6289b7f",
+                    "createdAt": "2018-09-08T06:25:42.590Z",
+                    "updatedAt": "2018-09-08T09:24:19.209Z",
+                    "edDuration": 0,
+                    "opDuration": 0,
+                    "id": "5b936b66b08f3f17ffd35a1d",
+                    "hasTopic": false
+                },
+                {
+                    "hls": {
+                        "pcHigh": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536388958_1536391501.m3u8?sign=34a31bfe7bcb4c6ab34255ea5c612fbf&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "pcMid": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536388958_1536391501.m3u8?sign=34a31bfe7bcb4c6ab34255ea5c612fbf&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "pcLow": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536388958_1536391501.m3u8?sign=34a31bfe7bcb4c6ab34255ea5c612fbf&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "mobileLow": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536388958_1536391501.m3u8?sign=34a31bfe7bcb4c6ab34255ea5c612fbf&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "mobileMid": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536388958_1536391501.m3u8?sign=34a31bfe7bcb4c6ab34255ea5c612fbf&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5b93794d81e6d52411de7dff",
+                    "name": "0908-强化学习入门（6）",
+                    "parentId": "5b9332e5f7b5ccb84f89c295",
+                    "courseId": "5b74db50d3dd5f78a6289b7f",
+                    "createdAt": "2018-09-08T07:25:01.549Z",
+                    "updatedAt": "2018-09-08T09:24:25.807Z",
+                    "edDuration": 0,
+                    "opDuration": 0,
+                    "id": "5b93794d81e6d52411de7dff",
+                    "hasTopic": false
+                },
+                {
+                    "hls": {
+                        "pcHigh": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536392266_1536393816.m3u8?sign=b33eb1d04d14889e0d818c7a1ddea9bd&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "pcMid": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536392266_1536393816.m3u8?sign=b33eb1d04d14889e0d818c7a1ddea9bd&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "pcLow": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536392266_1536393816.m3u8?sign=b33eb1d04d14889e0d818c7a1ddea9bd&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "mobileLow": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536392266_1536393816.m3u8?sign=b33eb1d04d14889e0d818c7a1ddea9bd&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "mobileMid": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536392266_1536393816.m3u8?sign=b33eb1d04d14889e0d818c7a1ddea9bd&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5b9382581bd54259a0a20116",
+                    "name": "0908-强化学习入门（7）",
+                    "parentId": "5b9332e5f7b5ccb84f89c295",
+                    "courseId": "5b74db50d3dd5f78a6289b7f",
+                    "createdAt": "2018-09-08T08:03:36.566Z",
+                    "updatedAt": "2018-09-08T09:24:33.266Z",
+                    "edDuration": 0,
+                    "opDuration": 0,
+                    "id": "5b9382581bd54259a0a20116",
+                    "hasTopic": false
+                },
+                {
+                    "hls": {
+                        "pcHigh": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536393922_1536395802.m3u8?sign=8542d19e43367b4c3dd29eb4018465e9&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "pcMid": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536393922_1536395802.m3u8?sign=8542d19e43367b4c3dd29eb4018465e9&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "pcLow": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536393922_1536395802.m3u8?sign=8542d19e43367b4c3dd29eb4018465e9&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "mobileLow": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536393922_1536395802.m3u8?sign=8542d19e43367b4c3dd29eb4018465e9&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "mobileMid": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536393922_1536395802.m3u8?sign=8542d19e43367b4c3dd29eb4018465e9&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5b938a1a1bd542591ea20189",
+                    "name": "0908-强化学习入门（8）",
+                    "parentId": "5b9332e5f7b5ccb84f89c295",
+                    "courseId": "5b74db50d3dd5f78a6289b7f",
+                    "createdAt": "2018-09-08T08:36:42.336Z",
+                    "updatedAt": "2018-09-08T09:24:41.730Z",
+                    "edDuration": 0,
+                    "opDuration": 0,
+                    "id": "5b938a1a1bd542591ea20189",
+                    "hasTopic": false
+                },
+                {
+                    "hls": {
+                        "pcHigh": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536456686_1536460207.m3u8?sign=dbed34723061fe950e8782ed0f15d057&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "pcMid": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536456686_1536460207.m3u8?sign=dbed34723061fe950e8782ed0f15d057&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "pcLow": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536456686_1536460207.m3u8?sign=dbed34723061fe950e8782ed0f15d057&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "mobileLow": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536456686_1536460207.m3u8?sign=dbed34723061fe950e8782ed0f15d057&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "mobileMid": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536456686_1536460207.m3u8?sign=dbed34723061fe950e8782ed0f15d057&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5b9485aff5b53f708f243891",
+                    "name": "0909-强化学习入门（1）",
+                    "parentId": "5b9332e5f7b5ccb84f89c295",
+                    "courseId": "5b74db50d3dd5f78a6289b7f",
+                    "createdAt": "2018-09-09T02:30:07.451Z",
+                    "updatedAt": "2018-09-09T06:55:13.890Z",
+                    "edDuration": 0,
+                    "opDuration": 0,
+                    "id": "5b9485aff5b53f708f243891",
+                    "hasTopic": false
+                },
+                {
+                    "hls": {
+                        "pcHigh": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536460549_1536463502.m3u8?sign=cf582a59de7cdfb55ce2ce1831d1b5cc&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "pcMid": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536460549_1536463502.m3u8?sign=cf582a59de7cdfb55ce2ce1831d1b5cc&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "pcLow": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536460549_1536463502.m3u8?sign=cf582a59de7cdfb55ce2ce1831d1b5cc&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "mobileLow": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536460549_1536463502.m3u8?sign=cf582a59de7cdfb55ce2ce1831d1b5cc&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "mobileMid": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536460549_1536463502.m3u8?sign=cf582a59de7cdfb55ce2ce1831d1b5cc&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5b94928e81e6d5709bde8698",
+                    "name": "0909-强化学习入门（2）",
+                    "parentId": "5b9332e5f7b5ccb84f89c295",
+                    "courseId": "5b74db50d3dd5f78a6289b7f",
+                    "createdAt": "2018-09-09T03:25:02.597Z",
+                    "updatedAt": "2018-09-09T06:55:20.278Z",
+                    "edDuration": 0,
+                    "opDuration": 0,
+                    "id": "5b94928e81e6d5709bde8698",
+                    "hasTopic": false
+                },
+                {
+                    "hls": {
+                        "pcHigh": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536463806_1536464830.m3u8?sign=5ea13b62f9db590eb2196922f71f4efc&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "pcMid": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536463806_1536464830.m3u8?sign=5ea13b62f9db590eb2196922f71f4efc&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "pcLow": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536463806_1536464830.m3u8?sign=5ea13b62f9db590eb2196922f71f4efc&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "mobileLow": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536463806_1536464830.m3u8?sign=5ea13b62f9db590eb2196922f71f4efc&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "mobileMid": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536463806_1536464830.m3u8?sign=5ea13b62f9db590eb2196922f71f4efc&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5b9497beb08f3f8a2dd3640d",
+                    "name": "0909-强化学习入门（3）",
+                    "parentId": "5b9332e5f7b5ccb84f89c295",
+                    "courseId": "5b74db50d3dd5f78a6289b7f",
+                    "createdAt": "2018-09-09T03:47:10.592Z",
+                    "updatedAt": "2018-09-09T06:55:27.008Z",
+                    "edDuration": 0,
+                    "opDuration": 0,
+                    "id": "5b9497beb08f3f8a2dd3640d",
+                    "hasTopic": false
+                },
+                {
+                    "hls": {
+                        "pcHigh": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536465111_1536466812.m3u8?sign=60fe30b94a1faeb4c5794dbc9dc7bf78&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "pcMid": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536465111_1536466812.m3u8?sign=60fe30b94a1faeb4c5794dbc9dc7bf78&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "pcLow": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536465111_1536466812.m3u8?sign=60fe30b94a1faeb4c5794dbc9dc7bf78&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "mobileLow": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536465111_1536466812.m3u8?sign=60fe30b94a1faeb4c5794dbc9dc7bf78&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "mobileMid": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536465111_1536466812.m3u8?sign=60fe30b94a1faeb4c5794dbc9dc7bf78&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5b949f7cf5b53f43ad2438d6",
+                    "name": "0909-强化学习入门（4）",
+                    "parentId": "5b9332e5f7b5ccb84f89c295",
+                    "courseId": "5b74db50d3dd5f78a6289b7f",
+                    "createdAt": "2018-09-09T04:20:12.469Z",
+                    "updatedAt": "2018-09-09T06:55:34.883Z",
+                    "edDuration": 0,
+                    "opDuration": 0,
+                    "id": "5b949f7cf5b53f43ad2438d6",
+                    "hasTopic": false
+                },
+                {
+                    "hls": {
+                        "pcHigh": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536467058_1536468632.m3u8?sign=1f8ff2712f881ed24f0f0472479355f6&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "pcMid": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536467058_1536468632.m3u8?sign=1f8ff2712f881ed24f0f0472479355f6&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "pcLow": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536467058_1536468632.m3u8?sign=1f8ff2712f881ed24f0f0472479355f6&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "mobileLow": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536467058_1536468632.m3u8?sign=1f8ff2712f881ed24f0f0472479355f6&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "mobileMid": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536467058_1536468632.m3u8?sign=1f8ff2712f881ed24f0f0472479355f6&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5b94a69881e6d5ab52de86a9",
+                    "name": "0909-强化学习入门（5）",
+                    "parentId": "5b9332e5f7b5ccb84f89c295",
+                    "courseId": "5b74db50d3dd5f78a6289b7f",
+                    "createdAt": "2018-09-09T04:50:32.775Z",
+                    "updatedAt": "2018-09-09T06:55:42.681Z",
+                    "edDuration": 0,
+                    "opDuration": 0,
+                    "id": "5b94a69881e6d5ab52de86a9",
+                    "hasTopic": false
+                },
+                {
+                    "hls": {
+                        "pcHigh": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536471066_1536472854.m3u8?sign=3100ca9097b3820731c228189e5a93db&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "pcMid": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536471066_1536472854.m3u8?sign=3100ca9097b3820731c228189e5a93db&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "pcLow": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536471066_1536472854.m3u8?sign=3100ca9097b3820731c228189e5a93db&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "mobileLow": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536471066_1536472854.m3u8?sign=3100ca9097b3820731c228189e5a93db&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "mobileMid": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536471066_1536472854.m3u8?sign=3100ca9097b3820731c228189e5a93db&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5b94b717b08f3f3d77d36444",
+                    "name": "0909-强化学习入门（6）",
+                    "parentId": "5b9332e5f7b5ccb84f89c295",
+                    "courseId": "5b74db50d3dd5f78a6289b7f",
+                    "createdAt": "2018-09-09T06:00:55.398Z",
+                    "updatedAt": "2018-09-09T06:55:55.507Z",
+                    "edDuration": 0,
+                    "opDuration": 0,
+                    "id": "5b94b717b08f3f3d77d36444",
+                    "hasTopic": false
+                },
+                {
+                    "hls": {
+                        "pcHigh": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536473417_1536474775.m3u8?sign=f7db2597d41af419750ce3019d665c2d&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "pcMid": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536473417_1536474775.m3u8?sign=f7db2597d41af419750ce3019d665c2d&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "pcLow": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536473417_1536474775.m3u8?sign=f7db2597d41af419750ce3019d665c2d&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "mobileLow": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536473417_1536474775.m3u8?sign=f7db2597d41af419750ce3019d665c2d&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "mobileMid": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536473417_1536474775.m3u8?sign=f7db2597d41af419750ce3019d665c2d&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5b94be971bd5421c21a209f6",
+                    "name": "0909-强化学习入门（7）",
+                    "parentId": "5b9332e5f7b5ccb84f89c295",
+                    "courseId": "5b74db50d3dd5f78a6289b7f",
+                    "createdAt": "2018-09-09T06:32:55.495Z",
+                    "updatedAt": "2018-09-09T06:56:01.981Z",
+                    "edDuration": 0,
+                    "opDuration": 0,
+                    "id": "5b94be971bd5421c21a209f6",
+                    "hasTopic": false
+                },
+                {
+                    "hls": {
+                        "pcHigh": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536475621_1536477323.m3u8?sign=0e9913b723e6134055366cca924f833d&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "pcMid": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536475621_1536477323.m3u8?sign=0e9913b723e6134055366cca924f833d&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "pcLow": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536475621_1536477323.m3u8?sign=0e9913b723e6134055366cca924f833d&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "mobileLow": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536475621_1536477323.m3u8?sign=0e9913b723e6134055366cca924f833d&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "mobileMid": "https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536475621_1536477323.m3u8?sign=0e9913b723e6134055366cca924f833d&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5b94c88b1bd5425a3fa20a25",
+                    "name": "0909-强化学习入门（8）",
+                    "parentId": "5b9332e5f7b5ccb84f89c295",
+                    "courseId": "5b74db50d3dd5f78a6289b7f",
+                    "createdAt": "2018-09-09T07:15:23.458Z",
+                    "updatedAt": "2018-09-09T08:34:05.189Z",
+                    "edDuration": 0,
+                    "opDuration": 0,
+                    "id": "5b94c88b1bd5425a3fa20a25",
+                    "hasTopic": false
+                },
+                {
+                    "hls": {
+                        "mobileLow": "http://media.wanmen.org/a7e15b93-c3c1-4193-be6b-5dbed204b097_mobile_low.m3u8?sign=213d90eefdfe38af317d3e888aa29143&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "pcLow": "https://media.wanmen.org/a7e15b93-c3c1-4193-be6b-5dbed204b097_pc_low.m3u8?sign=c3d5dbeeed5b3a65f407ed266c6e2635&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "pcHigh": "https://media.wanmen.org/a7e15b93-c3c1-4193-be6b-5dbed204b097_pc_high.m3u8?sign=5218817ea5b553d66ca4ef79be8ac7ef&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "pcMid": "https://media.wanmen.org/a7e15b93-c3c1-4193-be6b-5dbed204b097_pc_mid.m3u8?sign=3d2c571b8f42036751ea1ae7753c35b4&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649",
+                        "mobileMid": "http://media.wanmen.org/a7e15b93-c3c1-4193-be6b-5dbed204b097_mobile_mid.m3u8?sign=fd55fdc603f3cf41b45291c706a72e38&t=5bd1ff04&r=db28c553936e4c6717761ef1ebd3c649"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5b94ebbdb08f3fa158d3651e",
+                    "edDuration": 0,
+                    "opDuration": 0,
+                    "parentId": "5b9332e5f7b5ccb84f89c295",
+                    "courseId": "5b74db50d3dd5f78a6289b7f",
+                    "name": "0909-强化学习入门（9）",
+                    "createdAt": "2018-09-09T09:45:33.965Z",
+                    "updatedAt": "2018-09-09T14:21:06.421Z",
+                    "video": {},
+                    "id": "5b94ebbdb08f3fa158d3651e",
+                    "hasTopic": false
+                }
+            ]
+        }
+    ],
+    "hasTopic": false
+}

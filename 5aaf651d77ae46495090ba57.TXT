@@ -1,0 +1,2522 @@
+﻿{
+    "hide": false,
+    "specialTrainingOrder": 0,
+    "likes": 1,
+    "type": "record",
+    "status": "disconnected",
+    "isOnLive": false,
+    "playbackStatus": "pending",
+    "app": "uni",
+    "_id": "5aaf651d77ae46495090ba57",
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2018-03-19T07:22:05.193Z",
+    "updatedAt": "2018-10-17T09:12:09.929Z",
+    "name": "机器学习原理与应用入门",
+    "major": "5baefe5ba831647823003cde",
+    "numOfClasses": 11,
+    "description": "这门课介绍了传统的机器学习中最常用使用的模型及其背后的数学原理，并通过notebook展示了相应的代码实现。通过这门课的学习，你可以掌握工业界最常用的机器学习模型，包括何时适合使用，如何评价模型的效果，如何改进持续的模型。在完成了这门课的学习后，你可以达到初级机器学习工程师的理论知识水平，为接下来的深度学习与强化学习课程打下基础。\n",
+    "price": 235,
+    "teacher": {
+        "_id": "5a190a0a37beee5855953eaa",
+        "name": "许铁",
+        "description": "以色列理工学院机器学习在读博士、巴黎高师理论物理与复杂系统硕士、cruiser创始人 , 在知名神经科学期刊著有论文。",
+        "avatar": "https://imgs.wanmen.org/7388d1ed4893f5a032e96bf34442a434.png",
+        "remainingDays": -1,
+        "id": "5a190a0a37beee5855953eaa"
+    },
+    "expiration": 12,
+    "documents": [
+        {
+            "_id": "5b6aba8bbf689d2eb819d680",
+            "name": "机器学习原理与应用入门",
+            "order": 1,
+            "url": "https://docs.wanmen.org/0037bbe46b9257af09b026750909f6f1.zip",
+            "key": "0037bbe46b9257af09b026750909f6f1",
+            "ext": "zip"
+        },
+        {
+            "_id": "5b6aba8bbf689d25aa19d67f",
+            "name": "2-machine-learning.tar.gz",
+            "order": 2,
+            "url": "https://docs.wanmen.org/c8d30f8d98a4f0c5982054d9f9d22c9a.zip",
+            "key": "c8d30f8d98a4f0c5982054d9f9d22c9a",
+            "ext": "zip"
+        }
+    ],
+    "introductionImages": [],
+    "schedule": [],
+    "tag": "许铁 大学 机器 学习 原理 应用 入门 ",
+    "videoCount": 79,
+    "presentationVideo": {
+        "hls": {
+            "mobileLow": "https://media.wanmen.org/0d4a42cf-6ba7-478a-be76-90e6961450fb_mobile_low.m3u8?sign=34d68cb3a73b2b39f706fca8a1460e03&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+            "pcLow": "https://media.wanmen.org/0d4a42cf-6ba7-478a-be76-90e6961450fb_pc_low.m3u8?sign=7b27bfc6841460cc8920c3faa4857648&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+            "pcHigh": "https://media.wanmen.org/0d4a42cf-6ba7-478a-be76-90e6961450fb_pc_high.m3u8?sign=d7a052d27cdceaa7dc54f99b3a3a39c1&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+            "pcMid": "https://media.wanmen.org/0d4a42cf-6ba7-478a-be76-90e6961450fb_pc_mid.m3u8?sign=27a15963bd74ab4b9557d0fd4015a027&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+            "mobileMid": "https://media.wanmen.org/0d4a42cf-6ba7-478a-be76-90e6961450fb_mobile_mid.m3u8?sign=7208fc33739b16ae8d961e8ed741d0a6&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+        },
+        "_id": "5ab611ebef23a83e3d61d572",
+        "id": "5ab611ebef23a83e3d61d572"
+    },
+    "bigImage": "https://imgs.wanmen.org/3de4e9c8c315007da6f6323c2b9864ff.png",
+    "smallImage": "https://imgs.wanmen.org/6d508e16ad2b3cdea489f06643bc85a3.png",
+    "opDuration": 8,
+    "edDuration": 10,
+    "bigImageUrl": "https://imgs.wanmen.org/3de4e9c8c315007da6f6323c2b9864ff.png",
+    "smallImageUrl": "https://imgs.wanmen.org/6d508e16ad2b3cdea489f06643bc85a3.png",
+    "teacherName": "许铁",
+    "teacherAvatar": "https://imgs.wanmen.org/7388d1ed4893f5a032e96bf34442a434.png",
+    "teacherDescription": "以色列理工学院机器学习在读博士、巴黎高师理论物理与复杂系统硕士、cruiser创始人 , 在知名神经科学期刊著有论文。",
+    "id": "5aaf651d77ae46495090ba57",
+    "isPaid": true,
+    "remainingDays": 4,
+    "actions": {
+        "watch": true,
+        "download": false
+    },
+    "isLiked": false,
+    "isFaved": false,
+    "history": {
+        "_id": "5bd10f2bf7b5ccb84f0ad566",
+        "courseId": "5aaf651d77ae46495090ba57",
+        "userId": "5bcf45e19b55bba9454cac6e",
+        "createdAt": "2018-10-25T00:32:43.438Z",
+        "offset": 383,
+        "teacherName": "许铁",
+        "imageUrl": "https://imgs.wanmen.org/3de4e9c8c315007da6f6323c2b9864ff.png",
+        "lectureName": "梯度下降",
+        "type": "record",
+        "timeProgress": "06:23",
+        "courseName": "机器学习原理与应用入门",
+        "lectureId": "5ab60ba119dcca2d60b5c05e",
+        "app": "uni",
+        "updatedAt": "2018-10-27T01:32:38.629Z",
+        "id": "5bd10f2bf7b5ccb84f0ad566"
+    },
+    "isPass": false,
+    "lectures": [
+        {
+            "hls": {},
+            "actions": {
+                "watch": false,
+                "download": false
+            },
+            "hide": false,
+            "order": 0,
+            "_id": "5ab60b6919dcca2d60b5c04c",
+            "deletedAt": null,
+            "deleted": false,
+            "createdAt": "2018-03-24T08:25:13.573Z",
+            "updatedAt": "2018-03-24T08:25:33.221Z",
+            "courseId": "5aaf651d77ae46495090ba57",
+            "name": "机器学习引入",
+            "id": "5ab60b6919dcca2d60b5c04c",
+            "children": [
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/8e5abecd-34a3-41d7-89aa-a48532c5ec88_mobile_low.m3u8?sign=8b1c9a762eeaf2a9b1041722bc718919&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/8e5abecd-34a3-41d7-89aa-a48532c5ec88_pc_low.m3u8?sign=363c7e039b1cf44df6417487388e42b7&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/8e5abecd-34a3-41d7-89aa-a48532c5ec88_pc_high.m3u8?sign=d145e6e706370c8834968216aaf000b8&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/8e5abecd-34a3-41d7-89aa-a48532c5ec88_pc_mid.m3u8?sign=bfc03575561bc09197bfc3b6f63a9cdf&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/8e5abecd-34a3-41d7-89aa-a48532c5ec88_mobile_mid.m3u8?sign=b52dbd1b6a164a8645fbd4b5fa18c8a5&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab60b7519dcca2d60b5c050",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:25:25.391Z",
+                    "updatedAt": "2018-03-25T00:58:18.718Z",
+                    "parentId": "5ab60b6919dcca2d60b5c04c",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "机器学习是什么",
+                    "video": {},
+                    "id": "5ab60b7519dcca2d60b5c050",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/bc55c5eb-5674-4460-b59b-cf81362d65cb_mobile_low.m3u8?sign=8e4ce85e6e7379bc5b3c109492c57e2f&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/bc55c5eb-5674-4460-b59b-cf81362d65cb_pc_low.m3u8?sign=071d9a8a77723b9adb2eedf68522837f&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/bc55c5eb-5674-4460-b59b-cf81362d65cb_pc_high.m3u8?sign=f8cce68343cfebba154047349ebfe53f&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/bc55c5eb-5674-4460-b59b-cf81362d65cb_pc_mid.m3u8?sign=fab316e304c4e5320320e36b8fe94484&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/bc55c5eb-5674-4460-b59b-cf81362d65cb_mobile_mid.m3u8?sign=0b84d1093fa88296f3fe290caf718910&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab60b8c19dcca2d60b5c056",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:25:48.248Z",
+                    "updatedAt": "2018-03-24T08:27:13.285Z",
+                    "parentId": "5ab60b6919dcca2d60b5c04c",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "什么是模型",
+                    "video": {},
+                    "id": "5ab60b8c19dcca2d60b5c056",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/ea92d7ef-2944-45cd-8a05-b2d206ff6ec0_mobile_low.m3u8?sign=5e91360c831dedda23cf056ae2d972de&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/ea92d7ef-2944-45cd-8a05-b2d206ff6ec0_pc_low.m3u8?sign=7480b96a50dbcf27915654231756fc25&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/ea92d7ef-2944-45cd-8a05-b2d206ff6ec0_pc_high.m3u8?sign=a410a311882d505b9739e430733bb954&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/ea92d7ef-2944-45cd-8a05-b2d206ff6ec0_pc_mid.m3u8?sign=d432da44212ce64bc80d3a9d5c969ff3&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/ea92d7ef-2944-45cd-8a05-b2d206ff6ec0_mobile_mid.m3u8?sign=1dfc468837978245ea5d75c0ce254459&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab60b9619dcca2d60b5c05a",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:25:58.926Z",
+                    "updatedAt": "2018-03-24T08:27:24.002Z",
+                    "parentId": "5ab60b6919dcca2d60b5c04c",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "监督学习与损失函数",
+                    "video": {},
+                    "id": "5ab60b9619dcca2d60b5c05a",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/1458ccc3-a84d-4a06-a7cd-ee477021ba19_mobile_low.m3u8?sign=79c8a2e1a710798850431f9118858850&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/1458ccc3-a84d-4a06-a7cd-ee477021ba19_pc_low.m3u8?sign=4aafe6a4a97a056164d31659fc72f5f7&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/1458ccc3-a84d-4a06-a7cd-ee477021ba19_pc_high.m3u8?sign=7c8fca6764d03073f0134b7c28732a6a&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/1458ccc3-a84d-4a06-a7cd-ee477021ba19_pc_mid.m3u8?sign=7711d711609f8dbec0ae46eea85edbf1&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/1458ccc3-a84d-4a06-a7cd-ee477021ba19_mobile_mid.m3u8?sign=a8ca12a04495df89b2c91750e2bad000&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab60ba119dcca2d60b5c05e",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:26:09.497Z",
+                    "updatedAt": "2018-03-24T08:27:34.206Z",
+                    "parentId": "5ab60b6919dcca2d60b5c04c",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "梯度下降",
+                    "video": {},
+                    "id": "5ab60ba119dcca2d60b5c05e",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/fab59639-fcc1-425d-a969-a52cc7be86a6_mobile_low.m3u8?sign=a19f627cb7b61d812044d398da72ac9a&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/fab59639-fcc1-425d-a969-a52cc7be86a6_pc_low.m3u8?sign=a99e734b4b066d5088169854a05af947&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/fab59639-fcc1-425d-a969-a52cc7be86a6_pc_high.m3u8?sign=79e67cf61fe8563c0db9b935d3711a3a&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/fab59639-fcc1-425d-a969-a52cc7be86a6_pc_mid.m3u8?sign=3122e289eeddf229219e5521e5368a41&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/fab59639-fcc1-425d-a969-a52cc7be86a6_mobile_mid.m3u8?sign=6e498bceff38005ca7caf2d5ce2142e8&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab60baa19dcca2d60b5c062",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:26:18.475Z",
+                    "updatedAt": "2018-03-24T08:27:46.405Z",
+                    "parentId": "5ab60b6919dcca2d60b5c04c",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "数据标注的价值",
+                    "video": {},
+                    "id": "5ab60baa19dcca2d60b5c062",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/6611f4f8-8e5b-40f2-a69a-e9782da6cdc5_mobile_low.m3u8?sign=b79f17645b4e8303d8b6ec567da90d59&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/6611f4f8-8e5b-40f2-a69a-e9782da6cdc5_pc_low.m3u8?sign=c9942c91bfe53af05fd8b7856c37d9ce&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/6611f4f8-8e5b-40f2-a69a-e9782da6cdc5_pc_high.m3u8?sign=8133760feac54985746dfaf86461fa89&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/6611f4f8-8e5b-40f2-a69a-e9782da6cdc5_pc_mid.m3u8?sign=04526b4c7a6f455793c887f9f31149ac&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/6611f4f8-8e5b-40f2-a69a-e9782da6cdc5_mobile_mid.m3u8?sign=13db3f8c35632a57b63c21058728ddb9&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab60bb419dcca2d60b5c066",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:26:28.130Z",
+                    "updatedAt": "2018-03-24T08:28:10.360Z",
+                    "parentId": "5ab60b6919dcca2d60b5c04c",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "代码展示（一）",
+                    "video": {},
+                    "id": "5ab60bb419dcca2d60b5c066",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/30523a95-479e-4b4b-813f-5359c00f7175_mobile_low.m3u8?sign=a002cd6bd5326a57510b7ba7dc142bd4&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/30523a95-479e-4b4b-813f-5359c00f7175_pc_low.m3u8?sign=dd76172ed848d0cf64b8608f5130d848&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/30523a95-479e-4b4b-813f-5359c00f7175_pc_high.m3u8?sign=c1d7b73b3ebae92f5692881de1231c3b&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/30523a95-479e-4b4b-813f-5359c00f7175_pc_mid.m3u8?sign=f03abfbac7a3c7b46748da6cc67096e9&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/30523a95-479e-4b4b-813f-5359c00f7175_mobile_mid.m3u8?sign=0a1e779d62fa452d113e90e4670a204c&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab60bbf19dcca2d60b5c06a",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:26:39.813Z",
+                    "updatedAt": "2018-03-24T08:28:17.786Z",
+                    "parentId": "5ab60b6919dcca2d60b5c04c",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "代码展示（二）",
+                    "video": {},
+                    "id": "5ab60bbf19dcca2d60b5c06a",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/6d057c78-e431-44f5-899e-a5f3d2998dcd_mobile_low.m3u8?sign=4d784e4b1484f946bda57f56de582974&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/6d057c78-e431-44f5-899e-a5f3d2998dcd_pc_low.m3u8?sign=d139609a9c5b5df3dc602096e1b0ac67&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/6d057c78-e431-44f5-899e-a5f3d2998dcd_pc_high.m3u8?sign=a7904c6e6c814fe8b6cd5a9e99cdcc7b&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/6d057c78-e431-44f5-899e-a5f3d2998dcd_pc_mid.m3u8?sign=9619787acd68829de1695d019900d0e3&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/6d057c78-e431-44f5-899e-a5f3d2998dcd_mobile_mid.m3u8?sign=c3b9b6ac8d67621ce4977da437eeb149&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab60bc819dcca2d60b5c06e",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:26:48.140Z",
+                    "updatedAt": "2018-03-24T08:28:24.330Z",
+                    "parentId": "5ab60b6919dcca2d60b5c04c",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "代码展示（三）",
+                    "video": {},
+                    "id": "5ab60bc819dcca2d60b5c06e",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                }
+            ]
+        },
+        {
+            "hls": {},
+            "actions": {
+                "watch": false,
+                "download": false
+            },
+            "hide": false,
+            "order": 0,
+            "_id": "5ab60c3d19dcca2d60b5c08d",
+            "deletedAt": null,
+            "deleted": false,
+            "createdAt": "2018-03-24T08:28:45.564Z",
+            "updatedAt": "2018-03-24T08:28:45.564Z",
+            "courseId": "5aaf651d77ae46495090ba57",
+            "name": "分类问题",
+            "id": "5ab60c3d19dcca2d60b5c08d",
+            "children": [
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/1daad10e-1528-4cf3-a57a-3568f52a77fc_mobile_low.m3u8?sign=c3f89d267800c46e7f84b2acbaa0993e&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/1daad10e-1528-4cf3-a57a-3568f52a77fc_pc_low.m3u8?sign=133b0045617bd32ebcc0b9292cea5220&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/1daad10e-1528-4cf3-a57a-3568f52a77fc_pc_high.m3u8?sign=61f725364cc31e9d002c66e89ee1c3a9&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/1daad10e-1528-4cf3-a57a-3568f52a77fc_pc_mid.m3u8?sign=a9142e9908e40c8cee70eb68133f1618&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/1daad10e-1528-4cf3-a57a-3568f52a77fc_mobile_mid.m3u8?sign=28647ceba465a3da6f0d111da6f9a5de&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab60c6e19dcca2d60b5c098",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:29:34.222Z",
+                    "updatedAt": "2018-03-24T08:32:19.033Z",
+                    "parentId": "5ab60c3d19dcca2d60b5c08d",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "机器学习的三大基本范式（一）",
+                    "video": {},
+                    "id": "5ab60c6e19dcca2d60b5c098",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/cc536748-c103-4ac8-beaf-b7401bb3bfd7_mobile_low.m3u8?sign=395c7dec755bf941a869a6da47812c0f&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/cc536748-c103-4ac8-beaf-b7401bb3bfd7_pc_low.m3u8?sign=f559cef376939af897630f7ba30a3f94&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/cc536748-c103-4ac8-beaf-b7401bb3bfd7_pc_high.m3u8?sign=6b255b5bd9d913ce81171b09b3540a44&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/cc536748-c103-4ac8-beaf-b7401bb3bfd7_pc_mid.m3u8?sign=4023aac706ec5e92a59ffb256731afec&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/cc536748-c103-4ac8-beaf-b7401bb3bfd7_mobile_mid.m3u8?sign=2f70f495bd3309af05138c8d8058d3a0&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab60c7b19dcca2d60b5c09c",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:29:47.605Z",
+                    "updatedAt": "2018-03-24T08:32:25.505Z",
+                    "parentId": "5ab60c3d19dcca2d60b5c08d",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "机器学习的三大基本范式（二）",
+                    "video": {},
+                    "id": "5ab60c7b19dcca2d60b5c09c",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/54ece194-baf6-4db1-bcdc-e0914c6a2710_mobile_low.m3u8?sign=9475c69c05db6cd6ce615e5cadacc7ac&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/54ece194-baf6-4db1-bcdc-e0914c6a2710_pc_low.m3u8?sign=70d081d305239662dc6eab203c18d00e&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/54ece194-baf6-4db1-bcdc-e0914c6a2710_pc_high.m3u8?sign=709c3039b6637e1d8748e13d33e73814&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/54ece194-baf6-4db1-bcdc-e0914c6a2710_pc_mid.m3u8?sign=fe0a16a5e7fcf68a255c880817f35d88&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/54ece194-baf6-4db1-bcdc-e0914c6a2710_mobile_mid.m3u8?sign=2e74786f589b852c93afc863e56d59ac&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab60c8819dcca2d60b5c0a0",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:30:00.838Z",
+                    "updatedAt": "2018-03-24T08:32:31.678Z",
+                    "parentId": "5ab60c3d19dcca2d60b5c08d",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "监督学习中分类、回归及特征是什么",
+                    "video": {},
+                    "id": "5ab60c8819dcca2d60b5c0a0",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/6a08a05c-ea17-4d4f-ae3f-17a827179579_mobile_low.m3u8?sign=16fd5c0a16636316f27f72d090060307&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/6a08a05c-ea17-4d4f-ae3f-17a827179579_pc_low.m3u8?sign=a179ef3eaef947dc244e6acf96c05f1d&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/6a08a05c-ea17-4d4f-ae3f-17a827179579_pc_high.m3u8?sign=5d84afbbdd63e6166515f7434a1f9085&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/6a08a05c-ea17-4d4f-ae3f-17a827179579_pc_mid.m3u8?sign=b65f5e359b05a91eb90ca7f97edbb8fa&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/6a08a05c-ea17-4d4f-ae3f-17a827179579_mobile_mid.m3u8?sign=5d4051d9776b561965b47db07fcd0199&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab60c9419dcca2d60b5c0a4",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:30:12.532Z",
+                    "updatedAt": "2018-03-24T08:32:38.742Z",
+                    "parentId": "5ab60c3d19dcca2d60b5c08d",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "感知机",
+                    "video": {},
+                    "id": "5ab60c9419dcca2d60b5c0a4",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/d05ce4b9-9cd1-49fa-9941-fa1e175157ed_mobile_low.m3u8?sign=b40561d11b000218b870c52e0f7c5d6a&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/d05ce4b9-9cd1-49fa-9941-fa1e175157ed_pc_low.m3u8?sign=39c17e64c10b74c90aca0dabc9d084cd&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/d05ce4b9-9cd1-49fa-9941-fa1e175157ed_pc_high.m3u8?sign=19b89f726c104c318bde1b0661cbca70&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/d05ce4b9-9cd1-49fa-9941-fa1e175157ed_pc_mid.m3u8?sign=ea5a59f9578a3608a801e1479c7a5124&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/d05ce4b9-9cd1-49fa-9941-fa1e175157ed_mobile_mid.m3u8?sign=0dd13e1893957431320a0586bd530afe&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab60ca119dcca2d60b5c0a8",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:30:25.264Z",
+                    "updatedAt": "2018-03-24T08:32:47.535Z",
+                    "parentId": "5ab60c3d19dcca2d60b5c08d",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "代价函数",
+                    "video": {},
+                    "id": "5ab60ca119dcca2d60b5c0a8",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/595e8a80-df87-4585-bab2-8529dcb8f7d4_mobile_low.m3u8?sign=72f1d806877399b04d811d575fb90835&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/595e8a80-df87-4585-bab2-8529dcb8f7d4_pc_low.m3u8?sign=33d0e7dca990e67f560f648288a483cd&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/595e8a80-df87-4585-bab2-8529dcb8f7d4_pc_high.m3u8?sign=b126d49bd1709c8b0f0972c6f3c7995c&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/595e8a80-df87-4585-bab2-8529dcb8f7d4_pc_mid.m3u8?sign=250b92aa371095188042b328c8bd9b28&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/595e8a80-df87-4585-bab2-8529dcb8f7d4_mobile_mid.m3u8?sign=ea57dd3f2ebf30a20390233aa44d3513&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab60cab19dcca2d60b5c0ac",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:30:35.089Z",
+                    "updatedAt": "2018-03-24T08:32:56.486Z",
+                    "parentId": "5ab60c3d19dcca2d60b5c08d",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "随机梯度下降、如何判断分类器的好坏",
+                    "video": {},
+                    "id": "5ab60cab19dcca2d60b5c0ac",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/cc7b7384-a8f0-4bc1-ab60-3f38dca4b333_mobile_low.m3u8?sign=a8772ed4bad75771cdd6bc9057e11d52&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/cc7b7384-a8f0-4bc1-ab60-3f38dca4b333_pc_low.m3u8?sign=d950b8e0f46d7b519648a8880651379a&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/cc7b7384-a8f0-4bc1-ab60-3f38dca4b333_pc_high.m3u8?sign=23ce6dcc0137c807c65697ea3e858915&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/cc7b7384-a8f0-4bc1-ab60-3f38dca4b333_pc_mid.m3u8?sign=a13d026cca7d82df333a58b6c30add58&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/cc7b7384-a8f0-4bc1-ab60-3f38dca4b333_mobile_mid.m3u8?sign=6d712a3cb303c02e12744b109613e746&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab60cb819dcca2d60b5c0b0",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:30:48.079Z",
+                    "updatedAt": "2018-03-24T08:33:02.675Z",
+                    "parentId": "5ab60c3d19dcca2d60b5c08d",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "感知机的缺陷及课程总结",
+                    "video": {},
+                    "id": "5ab60cb819dcca2d60b5c0b0",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/be9b578e-a0ad-4ac6-999a-5d23c76c02af_mobile_low.m3u8?sign=284be717ef3e80f39c1d954ac1cc9bb5&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/be9b578e-a0ad-4ac6-999a-5d23c76c02af_pc_low.m3u8?sign=36ff23c062b9fdce8cdd7c9660e39ffa&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/be9b578e-a0ad-4ac6-999a-5d23c76c02af_pc_high.m3u8?sign=c75b546554606214d5b967ab57809493&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/be9b578e-a0ad-4ac6-999a-5d23c76c02af_pc_mid.m3u8?sign=be6be6da34d94805e4b69e75431f50fd&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/be9b578e-a0ad-4ac6-999a-5d23c76c02af_mobile_mid.m3u8?sign=85b7a6b177c2d8c5f02b67c34da0aa1d&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab60cc419dcca2d60b5c0b4",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:31:00.220Z",
+                    "updatedAt": "2018-03-24T08:33:12.294Z",
+                    "parentId": "5ab60c3d19dcca2d60b5c08d",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "代码展示",
+                    "video": {},
+                    "id": "5ab60cc419dcca2d60b5c0b4",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                }
+            ]
+        },
+        {
+            "hls": {},
+            "actions": {
+                "watch": false,
+                "download": false
+            },
+            "hide": false,
+            "order": 0,
+            "_id": "5ab60d5e19dcca2d60b5c0d2",
+            "deletedAt": null,
+            "deleted": false,
+            "createdAt": "2018-03-24T08:33:34.732Z",
+            "updatedAt": "2018-03-24T08:33:34.732Z",
+            "courseId": "5aaf651d77ae46495090ba57",
+            "name": "KNN算法",
+            "id": "5ab60d5e19dcca2d60b5c0d2",
+            "children": [
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/0ee4ab40-c5a1-41b6-acb5-af37eec1b0cb_mobile_low.m3u8?sign=0a4640bc51bbe473c66d2f50e0c25b59&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/0ee4ab40-c5a1-41b6-acb5-af37eec1b0cb_pc_low.m3u8?sign=3a7e8686a8a310ca016e29f9c30cb3b7&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/0ee4ab40-c5a1-41b6-acb5-af37eec1b0cb_pc_high.m3u8?sign=d6f342ab33074751719888d6b8ba3c3e&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/0ee4ab40-c5a1-41b6-acb5-af37eec1b0cb_pc_mid.m3u8?sign=b80335807606c271a47bc90be13c986d&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/0ee4ab40-c5a1-41b6-acb5-af37eec1b0cb_mobile_mid.m3u8?sign=81e10f227e00415b669c2e4bcdd9297b&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab60dee19dcca2d60b5c0f6",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:35:58.530Z",
+                    "updatedAt": "2018-03-24T08:36:50.273Z",
+                    "parentId": "5ab60d5e19dcca2d60b5c0d2",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "KNN算法是什么",
+                    "video": {},
+                    "id": "5ab60dee19dcca2d60b5c0f6",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/7a126057-1cb8-4e2b-954e-a54575e27a48_mobile_low.m3u8?sign=7413ab8add4fbce1efee72709ebb657a&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/7a126057-1cb8-4e2b-954e-a54575e27a48_pc_low.m3u8?sign=6f9e4fad6953cc329e975437e501d8fa&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/7a126057-1cb8-4e2b-954e-a54575e27a48_pc_high.m3u8?sign=1137e4100b7ac96bf7464cf5e2f57169&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/7a126057-1cb8-4e2b-954e-a54575e27a48_pc_mid.m3u8?sign=b21ff66d68f1f57066d2305302ea26a8&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/7a126057-1cb8-4e2b-954e-a54575e27a48_mobile_mid.m3u8?sign=f0d324bf0c4fc5378244e91b933a33a8&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab60dfa19dcca2d60b5c0fa",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:36:10.992Z",
+                    "updatedAt": "2018-03-24T08:36:56.380Z",
+                    "parentId": "5ab60d5e19dcca2d60b5c0d2",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "如何选择KNN中的K",
+                    "video": {},
+                    "id": "5ab60dfa19dcca2d60b5c0fa",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/48146dbc-c2b6-46e5-a609-a05aa07b1a17_mobile_low.m3u8?sign=5a237c4bfed0f5a9d5ec34b1a0604518&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/48146dbc-c2b6-46e5-a609-a05aa07b1a17_pc_low.m3u8?sign=813022af25c0da27ec02000c813cca41&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/48146dbc-c2b6-46e5-a609-a05aa07b1a17_pc_high.m3u8?sign=7a6f30beba4551d2bd00cb846a167d92&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/48146dbc-c2b6-46e5-a609-a05aa07b1a17_pc_mid.m3u8?sign=3c105df527789e881f37a348056a1f2b&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/48146dbc-c2b6-46e5-a609-a05aa07b1a17_mobile_mid.m3u8?sign=26fd136b29a9ee91f3edc1aa9ed066de&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab60e0419dcca2d60b5c0fe",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:36:20.264Z",
+                    "updatedAt": "2018-03-24T08:37:04.737Z",
+                    "parentId": "5ab60d5e19dcca2d60b5c0d2",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "过拟合和交叉验证",
+                    "video": {},
+                    "id": "5ab60e0419dcca2d60b5c0fe",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/2ea4df20-3160-450b-a4e0-5f97d98df2bb_mobile_low.m3u8?sign=da26cb4f03920f95b508b04b81c3fd34&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/2ea4df20-3160-450b-a4e0-5f97d98df2bb_pc_low.m3u8?sign=40a5b51e6fb577309a561461bae5040c&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/2ea4df20-3160-450b-a4e0-5f97d98df2bb_pc_high.m3u8?sign=2e097bb3bf930451f14d0ba8a5d1405e&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/2ea4df20-3160-450b-a4e0-5f97d98df2bb_pc_mid.m3u8?sign=a1a306d6e953e0b96601be34dad13ed7&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/2ea4df20-3160-450b-a4e0-5f97d98df2bb_mobile_mid.m3u8?sign=4d246678e43d011846686b4f3c183ba0&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab60e1319dcca2d60b5c102",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:36:35.484Z",
+                    "updatedAt": "2018-03-24T08:37:11.453Z",
+                    "parentId": "5ab60d5e19dcca2d60b5c0d2",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "代码展示及KNN算法的问题",
+                    "video": {},
+                    "id": "5ab60e1319dcca2d60b5c102",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                }
+            ]
+        },
+        {
+            "hls": {},
+            "actions": {
+                "watch": false,
+                "download": false
+            },
+            "hide": false,
+            "order": 0,
+            "_id": "5ab60d6919dcca2d60b5c0d6",
+            "deletedAt": null,
+            "deleted": false,
+            "createdAt": "2018-03-24T08:33:45.913Z",
+            "updatedAt": "2018-03-24T08:33:45.913Z",
+            "courseId": "5aaf651d77ae46495090ba57",
+            "name": "机器学习背后的数学（上）",
+            "id": "5ab60d6919dcca2d60b5c0d6",
+            "children": [
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/6fdf202e-125d-450f-868c-f094bf515b47_mobile_low.m3u8?sign=7a1918f98651335d5ae86c64e0ca504e&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/6fdf202e-125d-450f-868c-f094bf515b47_pc_low.m3u8?sign=53a2948929afca95c81832739766a5e8&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/6fdf202e-125d-450f-868c-f094bf515b47_pc_high.m3u8?sign=2fc8c0c127aa963a3fe3072ad043f610&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/6fdf202e-125d-450f-868c-f094bf515b47_pc_mid.m3u8?sign=b3cf747859534329159e365e229a4703&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/6fdf202e-125d-450f-868c-f094bf515b47_mobile_mid.m3u8?sign=3929c597d4dab65333ae935c7de014d2&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab60e4619dcca2d60b5c112",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:37:26.267Z",
+                    "updatedAt": "2018-03-24T08:38:35.031Z",
+                    "parentId": "5ab60d6919dcca2d60b5c0d6",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "机器学习什么时候会成功",
+                    "video": {},
+                    "id": "5ab60e4619dcca2d60b5c112",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/71cb9122-6c89-4ac0-924b-83336ec6e9e4_mobile_low.m3u8?sign=55773ec48bb3dd26f930d5e595384f0d&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/71cb9122-6c89-4ac0-924b-83336ec6e9e4_pc_low.m3u8?sign=2979f1600f1f3d365cc456188612145f&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/71cb9122-6c89-4ac0-924b-83336ec6e9e4_pc_high.m3u8?sign=58edde2acfb52591797a0dbeccef8cd6&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/71cb9122-6c89-4ac0-924b-83336ec6e9e4_pc_mid.m3u8?sign=4ad3018ce4edd8cfd90a718d124d6856&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/71cb9122-6c89-4ac0-924b-83336ec6e9e4_mobile_mid.m3u8?sign=7863c2b5f0113f94248480fd333e4b9d&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab60e5019dcca2d60b5c116",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:37:36.965Z",
+                    "updatedAt": "2018-03-24T08:38:41.675Z",
+                    "parentId": "5ab60d6919dcca2d60b5c0d6",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "如何用概率论度量模型的不确定性（一）",
+                    "video": {},
+                    "id": "5ab60e5019dcca2d60b5c116",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/df5e4603-7467-4f6e-a79c-6767b083d0ac_mobile_low.m3u8?sign=cfc92fe8e8d60a51777e03fb55e07f9f&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/df5e4603-7467-4f6e-a79c-6767b083d0ac_pc_low.m3u8?sign=d47cb09d91ac0424a4ce56ec8b7cae1d&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/df5e4603-7467-4f6e-a79c-6767b083d0ac_pc_high.m3u8?sign=7feff2fd1b4f9518833673f36a817afc&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/df5e4603-7467-4f6e-a79c-6767b083d0ac_pc_mid.m3u8?sign=25c0bd221c213cc537f9715c3cb789c5&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/df5e4603-7467-4f6e-a79c-6767b083d0ac_mobile_mid.m3u8?sign=0e0833f57fe74915f956e932d0456143&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab60e6319dcca2d60b5c11a",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:37:55.463Z",
+                    "updatedAt": "2018-03-24T08:38:47.632Z",
+                    "parentId": "5ab60d6919dcca2d60b5c0d6",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "如何用概率论度量模型的不确定性（二）",
+                    "video": {},
+                    "id": "5ab60e6319dcca2d60b5c11a",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/96e9d03b-f587-49a5-b91e-be1a02a4b167_mobile_low.m3u8?sign=4c9997aa6aa1b114a314fb0cbaea41a0&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/96e9d03b-f587-49a5-b91e-be1a02a4b167_pc_low.m3u8?sign=2134e690f71a208b9ed6c09e9c674087&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/96e9d03b-f587-49a5-b91e-be1a02a4b167_pc_high.m3u8?sign=f88e9b96bcbba2877fea5985702b0f20&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/96e9d03b-f587-49a5-b91e-be1a02a4b167_pc_mid.m3u8?sign=81c7b6422bccb7110dbfe796a5926230&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/96e9d03b-f587-49a5-b91e-be1a02a4b167_mobile_mid.m3u8?sign=6af2ba1b8f45ebf033837f1d71107b69&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab60e6c19dcca2d60b5c11e",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:38:04.029Z",
+                    "updatedAt": "2018-03-24T08:38:53.874Z",
+                    "parentId": "5ab60d6919dcca2d60b5c0d6",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "如何用概率论度量模型的不确定性（三）",
+                    "video": {},
+                    "id": "5ab60e6c19dcca2d60b5c11e",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/61457e1e-d438-43af-8802-e275031d6f55_mobile_low.m3u8?sign=961b34ac684e4b6a824f4db61137dc97&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/61457e1e-d438-43af-8802-e275031d6f55_pc_low.m3u8?sign=584951abe06ff51eef29a3eea3e914b7&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/61457e1e-d438-43af-8802-e275031d6f55_pc_high.m3u8?sign=cb7bb2bed2f43201c9cdcbf261f779d7&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/61457e1e-d438-43af-8802-e275031d6f55_pc_mid.m3u8?sign=450a638069d16d3f7118ddf7c1c49679&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/61457e1e-d438-43af-8802-e275031d6f55_mobile_mid.m3u8?sign=8c738b1641787051102d332e05aef818&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab60e7419dcca2d60b5c122",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:38:12.337Z",
+                    "updatedAt": "2018-03-24T08:38:59.643Z",
+                    "parentId": "5ab60d6919dcca2d60b5c0d6",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "如何用概率论度量模型的不确定性（四）",
+                    "video": {},
+                    "id": "5ab60e7419dcca2d60b5c122",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/54ad3085-d0b4-44a0-9b4b-932ccc3a9891_mobile_low.m3u8?sign=e7fe241ba76435fb584c132ed5ab721e&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/54ad3085-d0b4-44a0-9b4b-932ccc3a9891_pc_low.m3u8?sign=bebf19449da4ecdb1638a084d03d3fcd&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/54ad3085-d0b4-44a0-9b4b-932ccc3a9891_pc_high.m3u8?sign=cb88f6aaad3e10dc0440a0a701cefba2&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/54ad3085-d0b4-44a0-9b4b-932ccc3a9891_pc_mid.m3u8?sign=ebfe031338b8e15d4f0f491e918fc16b&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/54ad3085-d0b4-44a0-9b4b-932ccc3a9891_mobile_mid.m3u8?sign=b9bc33e5ce20490e963097ab0c546e85&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab60e8219dcca2d60b5c126",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:38:26.344Z",
+                    "updatedAt": "2018-03-24T08:39:06.333Z",
+                    "parentId": "5ab60d6919dcca2d60b5c0d6",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "如何用概率论度量模型的不确定性（五）",
+                    "video": {},
+                    "id": "5ab60e8219dcca2d60b5c126",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/87d7369e-4487-4d07-891c-bd3547212814_mobile_low.m3u8?sign=01a554a34d726879ef31a01d7b39bed6&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/87d7369e-4487-4d07-891c-bd3547212814_pc_low.m3u8?sign=802ac46c2e82f06b0255736b7cefdbd9&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/87d7369e-4487-4d07-891c-bd3547212814_pc_high.m3u8?sign=8017c765b1d7da650b81c68411231255&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/87d7369e-4487-4d07-891c-bd3547212814_pc_mid.m3u8?sign=5545afa762878d6d0766bb1f2bf94b2c&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/87d7369e-4487-4d07-891c-bd3547212814_mobile_mid.m3u8?sign=5b0420c42818a5fadee1f173c32b9489&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab60eba19dcca2d60b5c13c",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:39:22.960Z",
+                    "updatedAt": "2018-03-24T08:40:07.951Z",
+                    "parentId": "5ab60d6919dcca2d60b5c0d6",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "模型误差的两种分类（一）",
+                    "video": {},
+                    "id": "5ab60eba19dcca2d60b5c13c",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/264b5789-8e33-4208-abde-f6d7a120c236_mobile_low.m3u8?sign=5ce2cc9bf741e4fb434c240126ac4522&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/264b5789-8e33-4208-abde-f6d7a120c236_pc_low.m3u8?sign=3e7df3cb751d71b7c10a800470994db2&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/264b5789-8e33-4208-abde-f6d7a120c236_pc_high.m3u8?sign=acc52cac8302dd37ea933bd987355cea&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/264b5789-8e33-4208-abde-f6d7a120c236_pc_mid.m3u8?sign=725b75f7a9fd09b9e56a177a355a2a12&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/264b5789-8e33-4208-abde-f6d7a120c236_mobile_mid.m3u8?sign=ea7a72150e563aa684b564d8e6215b72&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab60ec719dcca2d60b5c140",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:39:35.178Z",
+                    "updatedAt": "2018-03-24T08:40:15.676Z",
+                    "parentId": "5ab60d6919dcca2d60b5c0d6",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "模型误差的两种分类（二）",
+                    "video": {},
+                    "id": "5ab60ec719dcca2d60b5c140",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/5144db00-3f20-4943-ae26-5e311af7c966_mobile_low.m3u8?sign=7ce198b9c27f38d756448e4d1eaf52a2&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/5144db00-3f20-4943-ae26-5e311af7c966_pc_low.m3u8?sign=a366c51783863a2b5acec535e9906c80&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/5144db00-3f20-4943-ae26-5e311af7c966_pc_high.m3u8?sign=2a4992c11550afadd527e4f20f1fdd09&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/5144db00-3f20-4943-ae26-5e311af7c966_pc_mid.m3u8?sign=2968eb840d10a49e1d4e85aeeb86ca57&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/5144db00-3f20-4943-ae26-5e311af7c966_mobile_mid.m3u8?sign=2208f4f9c209953c47c43a374d92c292&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab60ed919dcca2d60b5c145",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:39:53.453Z",
+                    "updatedAt": "2018-03-24T08:40:22.851Z",
+                    "parentId": "5ab60d6919dcca2d60b5c0d6",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "模型误差的两种分类（三）",
+                    "video": {},
+                    "id": "5ab60ed919dcca2d60b5c145",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/e3729eeb-820c-49cd-964b-2edd974c229d_mobile_low.m3u8?sign=a03cfd4062192590ba7b50346f42fc8a&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/e3729eeb-820c-49cd-964b-2edd974c229d_pc_low.m3u8?sign=3f50cab95fb1f54e65c1b11e5ed89c03&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/e3729eeb-820c-49cd-964b-2edd974c229d_pc_high.m3u8?sign=9235d624299338e07420dff0dcf813cb&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/e3729eeb-820c-49cd-964b-2edd974c229d_pc_mid.m3u8?sign=1df9a9e93fb28b45efe556a4c2c624f1&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/e3729eeb-820c-49cd-964b-2edd974c229d_mobile_mid.m3u8?sign=309f6c783b36a8db6c6d46f47e9462cd&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab60f0d19dcca2d60b5c154",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:40:45.603Z",
+                    "updatedAt": "2018-03-24T08:40:57.745Z",
+                    "parentId": "5ab60d6919dcca2d60b5c0d6",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "代码展示",
+                    "video": {},
+                    "id": "5ab60f0d19dcca2d60b5c154",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                }
+            ]
+        },
+        {
+            "hls": {},
+            "actions": {
+                "watch": false,
+                "download": false
+            },
+            "hide": false,
+            "order": 0,
+            "_id": "5ab60d7719dcca2d60b5c0da",
+            "deletedAt": null,
+            "deleted": false,
+            "createdAt": "2018-03-24T08:33:59.268Z",
+            "updatedAt": "2018-03-24T08:33:59.268Z",
+            "courseId": "5aaf651d77ae46495090ba57",
+            "name": "机器学习背后的数学（下）",
+            "id": "5ab60d7719dcca2d60b5c0da",
+            "children": [
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/416ed52f-b7fb-4386-a50d-5805a408521f_mobile_low.m3u8?sign=437ea28b3cc206c75aba4504cbc743f5&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/416ed52f-b7fb-4386-a50d-5805a408521f_pc_low.m3u8?sign=c75d0ef4ff5739f32d4587d4021dc8af&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/416ed52f-b7fb-4386-a50d-5805a408521f_pc_high.m3u8?sign=6d9cc83920e0907a5ad1629dcc3110b1&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/416ed52f-b7fb-4386-a50d-5805a408521f_pc_mid.m3u8?sign=5773a5e6507995c094ff69c8f603ae1e&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/416ed52f-b7fb-4386-a50d-5805a408521f_mobile_mid.m3u8?sign=0323a9db206bd91f36090adc71772d20&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab60f2a19dcca2d60b5c15b",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:41:14.065Z",
+                    "updatedAt": "2018-03-24T08:42:22.567Z",
+                    "parentId": "5ab60d7719dcca2d60b5c0da",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "如何选择好的特征值（一）",
+                    "video": {},
+                    "id": "5ab60f2a19dcca2d60b5c15b",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/1cd49ccb-5794-4a7f-9f79-2b3504359162_mobile_low.m3u8?sign=60b2c001dd32685851a8422bd31d1a06&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/1cd49ccb-5794-4a7f-9f79-2b3504359162_pc_low.m3u8?sign=a44ef050c43f6c847c6d60ae224bff3c&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/1cd49ccb-5794-4a7f-9f79-2b3504359162_pc_high.m3u8?sign=a2c6b342f4d740675c6808f5c2f0c26e&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/1cd49ccb-5794-4a7f-9f79-2b3504359162_pc_mid.m3u8?sign=a7c363f3e50268c739a4225cb2d62847&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/1cd49ccb-5794-4a7f-9f79-2b3504359162_mobile_mid.m3u8?sign=55da71a8184a534ad5da15e17541c507&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab60f3919dcca2d60b5c15f",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:41:29.524Z",
+                    "updatedAt": "2018-03-24T08:42:29.701Z",
+                    "parentId": "5ab60d7719dcca2d60b5c0da",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "如何选择好的特征值（二）",
+                    "video": {},
+                    "id": "5ab60f3919dcca2d60b5c15f",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/6d9c6b3d-6d0e-4d30-b73a-964acd30c8fa_mobile_low.m3u8?sign=73d884a228cf07d58fb94cdd6129bff0&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/6d9c6b3d-6d0e-4d30-b73a-964acd30c8fa_pc_low.m3u8?sign=0ed5de8cdef4abba96c320b6d6ae09da&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/6d9c6b3d-6d0e-4d30-b73a-964acd30c8fa_pc_high.m3u8?sign=f9c9772086ce50d7fee443d025d8d7cd&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/6d9c6b3d-6d0e-4d30-b73a-964acd30c8fa_pc_mid.m3u8?sign=ba71c23445f53c64fff0c94968b27afe&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/6d9c6b3d-6d0e-4d30-b73a-964acd30c8fa_mobile_mid.m3u8?sign=6dc1d20be93d48d91abfd32525bce3d0&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab60f4319dcca2d60b5c163",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:41:39.659Z",
+                    "updatedAt": "2018-03-24T08:42:36.719Z",
+                    "parentId": "5ab60d7719dcca2d60b5c0da",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "如何选择好的特征值（三）",
+                    "video": {},
+                    "id": "5ab60f4319dcca2d60b5c163",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/bdebdc42-4c37-4f42-960f-cc6e1f06e198_mobile_low.m3u8?sign=0423dd093167097dc3edc3eefc4b0831&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/bdebdc42-4c37-4f42-960f-cc6e1f06e198_pc_low.m3u8?sign=c7faa7d33f17bcc0cfef5205eb2e6bb8&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/bdebdc42-4c37-4f42-960f-cc6e1f06e198_pc_high.m3u8?sign=b133cc1a0ce2a60c0f7156d0b8ac1b18&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/bdebdc42-4c37-4f42-960f-cc6e1f06e198_pc_mid.m3u8?sign=7537d10e57187fe671e072f18b065df3&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/bdebdc42-4c37-4f42-960f-cc6e1f06e198_mobile_mid.m3u8?sign=c639fe757dbb4a4a0f85e4ac65548ada&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab60f4d19dcca2d60b5c167",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:41:49.105Z",
+                    "updatedAt": "2018-03-24T08:42:42.541Z",
+                    "parentId": "5ab60d7719dcca2d60b5c0da",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "正则化（一）",
+                    "video": {},
+                    "id": "5ab60f4d19dcca2d60b5c167",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/305af943-26a7-4fb4-a2fd-c63f0282419a_mobile_low.m3u8?sign=ae561914a6a3a952090bd7639c6559f9&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/305af943-26a7-4fb4-a2fd-c63f0282419a_pc_low.m3u8?sign=80c3fa0e2ee1b574d6f956dabbd4179c&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/305af943-26a7-4fb4-a2fd-c63f0282419a_pc_high.m3u8?sign=282a2c2d1cdef10796c21a3f9992cc3f&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/305af943-26a7-4fb4-a2fd-c63f0282419a_pc_mid.m3u8?sign=54fd3d81ef5e44532e3c78134a5e44b0&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/305af943-26a7-4fb4-a2fd-c63f0282419a_mobile_mid.m3u8?sign=7cb08cb5b7d6c909a6da225be7fb1452&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab60f5519dcca2d60b5c16b",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:41:57.840Z",
+                    "updatedAt": "2018-03-24T08:42:50.509Z",
+                    "parentId": "5ab60d7719dcca2d60b5c0da",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "正则化（二）",
+                    "video": {},
+                    "id": "5ab60f5519dcca2d60b5c16b",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/d1d7c374-2cd4-4a73-85c2-e145268c52fd_mobile_low.m3u8?sign=2c46c7b83644fe9caf76905e0f18ceaf&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/d1d7c374-2cd4-4a73-85c2-e145268c52fd_pc_low.m3u8?sign=cef688778b3c65c719eb6eb75df72b80&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/d1d7c374-2cd4-4a73-85c2-e145268c52fd_pc_high.m3u8?sign=536521987cbd14bcb72883b10a190c56&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/d1d7c374-2cd4-4a73-85c2-e145268c52fd_pc_mid.m3u8?sign=79dff95d2aec6bcfada473204c6cb7c2&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/d1d7c374-2cd4-4a73-85c2-e145268c52fd_mobile_mid.m3u8?sign=d6e64d9d10cc1fe97639ac38ba9534bb&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab60f5f19dcca2d60b5c16f",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:42:07.284Z",
+                    "updatedAt": "2018-03-24T08:42:59.322Z",
+                    "parentId": "5ab60d7719dcca2d60b5c0da",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "代码展示（一）",
+                    "video": {},
+                    "id": "5ab60f5f19dcca2d60b5c16f",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/effc5e0e-60da-4465-9fcc-c88670167216_mobile_low.m3u8?sign=e18bb5401a6525416bb2d0d9bbe23afe&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/effc5e0e-60da-4465-9fcc-c88670167216_pc_low.m3u8?sign=e82ef481b647e03bba59ac7e1b874fe7&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/effc5e0e-60da-4465-9fcc-c88670167216_pc_high.m3u8?sign=b393a94cf9792e1f2de4133e32079a1c&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/effc5e0e-60da-4465-9fcc-c88670167216_pc_mid.m3u8?sign=cc93e1392c4767935afa6e0181ea053f&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/effc5e0e-60da-4465-9fcc-c88670167216_mobile_mid.m3u8?sign=dd07d9b52f69ab1a1de77cb29f41c3a1&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab60f6619dcca2d60b5c173",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:42:14.141Z",
+                    "updatedAt": "2018-03-24T08:43:05.433Z",
+                    "parentId": "5ab60d7719dcca2d60b5c0da",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "代码展示（二）",
+                    "video": {},
+                    "id": "5ab60f6619dcca2d60b5c173",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                }
+            ]
+        },
+        {
+            "hls": {},
+            "actions": {
+                "watch": false,
+                "download": false
+            },
+            "hide": false,
+            "order": 0,
+            "_id": "5ab60d8519dcca2d60b5c0de",
+            "deletedAt": null,
+            "deleted": false,
+            "createdAt": "2018-03-24T08:34:13.641Z",
+            "updatedAt": "2018-03-24T08:34:13.641Z",
+            "courseId": "5aaf651d77ae46495090ba57",
+            "name": "加入概率更健康之逻辑斯蒂回归",
+            "id": "5ab60d8519dcca2d60b5c0de",
+            "children": [
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/e4d18abc-6f63-461e-ae89-220e8bccd0ee_mobile_low.m3u8?sign=ae51b428bdd75cce5a4ddaee770f92aa&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/e4d18abc-6f63-461e-ae89-220e8bccd0ee_pc_low.m3u8?sign=910fcc13ee8344184429c4a30c029d8b&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/e4d18abc-6f63-461e-ae89-220e8bccd0ee_pc_high.m3u8?sign=b92ddde498dc1e2a3c3fc2d823c8f48a&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/e4d18abc-6f63-461e-ae89-220e8bccd0ee_pc_mid.m3u8?sign=b4eb1dd5da01c5ca4ab8ed5b982fb517&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/e4d18abc-6f63-461e-ae89-220e8bccd0ee_mobile_mid.m3u8?sign=00b49a685b1c8db025db1bb81389bf43&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab60fa519dcca2d60b5c18c",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:43:17.430Z",
+                    "updatedAt": "2018-03-24T08:45:13.228Z",
+                    "parentId": "5ab60d8519dcca2d60b5c0de",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "逻辑斯蒂模型的架构",
+                    "video": {},
+                    "id": "5ab60fa519dcca2d60b5c18c",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/aa89a06b-10ea-4e1b-9ca8-8264582251c4_mobile_low.m3u8?sign=481893efd8e3714d8affe7973ccccf5a&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/aa89a06b-10ea-4e1b-9ca8-8264582251c4_pc_low.m3u8?sign=d06323b0931b7ab9e10c48ad96bb0cea&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/aa89a06b-10ea-4e1b-9ca8-8264582251c4_pc_high.m3u8?sign=d595898eddb13a70a5ff1facb340bf7f&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/aa89a06b-10ea-4e1b-9ca8-8264582251c4_pc_mid.m3u8?sign=6e6c76e5ddc6043dd3d1fab44711f0db&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/aa89a06b-10ea-4e1b-9ca8-8264582251c4_mobile_mid.m3u8?sign=567da8319b28c7362ef52f5ac7e4d8de&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab60faf19dcca2d60b5c190",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:43:27.233Z",
+                    "updatedAt": "2018-03-24T08:45:19.193Z",
+                    "parentId": "5ab60d8519dcca2d60b5c0de",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "交叉熵KL散度",
+                    "video": {},
+                    "id": "5ab60faf19dcca2d60b5c190",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/aeafbd1c-8bac-4084-a09e-caf7aad83ffa_mobile_low.m3u8?sign=a8a09a29b3376e95ce4704923b63da93&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/aeafbd1c-8bac-4084-a09e-caf7aad83ffa_pc_low.m3u8?sign=3fbff8f146807ca6bc41cbb3055b1b28&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/aeafbd1c-8bac-4084-a09e-caf7aad83ffa_pc_high.m3u8?sign=3e1cc09f98ff42bdab1d1518fc059bdd&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/aeafbd1c-8bac-4084-a09e-caf7aad83ffa_pc_mid.m3u8?sign=e6109af2e0edd18550189df6e76fa36e&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/aeafbd1c-8bac-4084-a09e-caf7aad83ffa_mobile_mid.m3u8?sign=ef7e68683c12856d70ca00417b346ad3&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab60fb819dcca2d60b5c194",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:43:36.880Z",
+                    "updatedAt": "2018-03-24T08:45:25.007Z",
+                    "parentId": "5ab60d8519dcca2d60b5c0de",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "如何度量模型的目标（一）",
+                    "video": {},
+                    "id": "5ab60fb819dcca2d60b5c194",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/266caa36-dd33-4dc3-a55c-4a00f006f954_mobile_low.m3u8?sign=2d0003f97aa48e6ff658a183c44b8f63&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/266caa36-dd33-4dc3-a55c-4a00f006f954_pc_low.m3u8?sign=6db745446500a1da333b57e66e4024a7&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/266caa36-dd33-4dc3-a55c-4a00f006f954_pc_high.m3u8?sign=bacd2678da5a6c7bd9717433561eb8a9&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/266caa36-dd33-4dc3-a55c-4a00f006f954_pc_mid.m3u8?sign=5d96e88e0708427d1aa800c9e1a3e3d8&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/266caa36-dd33-4dc3-a55c-4a00f006f954_mobile_mid.m3u8?sign=88edbb1604f80030af62641b44d9e70f&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab60fc319dcca2d60b5c198",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:43:47.841Z",
+                    "updatedAt": "2018-03-24T08:45:32.084Z",
+                    "parentId": "5ab60d8519dcca2d60b5c0de",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "如何度量模型的目标（二）",
+                    "video": {},
+                    "id": "5ab60fc319dcca2d60b5c198",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/5cb1eb46-6665-4c66-9a13-d4e0cc852488_mobile_low.m3u8?sign=efad5ae03ca42fe1179bb69525051775&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/5cb1eb46-6665-4c66-9a13-d4e0cc852488_pc_low.m3u8?sign=9548a604197ebe87e12d3bb4a338e3ef&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/5cb1eb46-6665-4c66-9a13-d4e0cc852488_pc_high.m3u8?sign=d4f9c9d03009580dbfa73b8180dcd32a&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/5cb1eb46-6665-4c66-9a13-d4e0cc852488_pc_mid.m3u8?sign=e0a6588caff945b7028d4837af43cf80&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/5cb1eb46-6665-4c66-9a13-d4e0cc852488_mobile_mid.m3u8?sign=869119d71193568d420f6e142e07e418&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab60fe519dcca2d60b5c19c",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:44:21.377Z",
+                    "updatedAt": "2018-03-24T08:45:40.324Z",
+                    "parentId": "5ab60d8519dcca2d60b5c0de",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "如何求解逻辑斯蒂回归模型的优化问题（一）",
+                    "video": {},
+                    "id": "5ab60fe519dcca2d60b5c19c",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/9ade3274-d1fe-4edc-b5ae-a816d4a76194_mobile_low.m3u8?sign=9ce1d5d93e92e9d5df1b0d18b55bfbfb&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/9ade3274-d1fe-4edc-b5ae-a816d4a76194_pc_low.m3u8?sign=562ea1f8b04f025da31c716b066015ff&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/9ade3274-d1fe-4edc-b5ae-a816d4a76194_pc_high.m3u8?sign=79f106638ae604fd511f48d067240b53&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/9ade3274-d1fe-4edc-b5ae-a816d4a76194_pc_mid.m3u8?sign=6b169648ed628ef9bb119d5fc1f1efe1&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/9ade3274-d1fe-4edc-b5ae-a816d4a76194_mobile_mid.m3u8?sign=2efe676cc27ba2a54deac2905629bfac&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab60fef19dcca2d60b5c1a0",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:44:31.755Z",
+                    "updatedAt": "2018-03-24T08:45:46.533Z",
+                    "parentId": "5ab60d8519dcca2d60b5c0de",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "如何求解逻辑斯蒂回归模型的优化问题（二）",
+                    "video": {},
+                    "id": "5ab60fef19dcca2d60b5c1a0",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/48341513-aa91-4ed4-b9c1-11a90d1fb28a_mobile_low.m3u8?sign=56f12a71cce29537701ca19c439222e3&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/48341513-aa91-4ed4-b9c1-11a90d1fb28a_pc_low.m3u8?sign=34d98bb39d024e2cdf3fb6dfd52dfb9f&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/48341513-aa91-4ed4-b9c1-11a90d1fb28a_pc_high.m3u8?sign=e8db0d7057182fad85ffb4dace1abad2&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/48341513-aa91-4ed4-b9c1-11a90d1fb28a_pc_mid.m3u8?sign=dc943398273618be5da00a3345439faa&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/48341513-aa91-4ed4-b9c1-11a90d1fb28a_mobile_mid.m3u8?sign=1bb8d391ce416a71102b87ecab00161b&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab60ff919dcca2d60b5c1a4",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:44:41.793Z",
+                    "updatedAt": "2018-03-24T08:45:52.408Z",
+                    "parentId": "5ab60d8519dcca2d60b5c0de",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "代码展示（一）",
+                    "video": {},
+                    "id": "5ab60ff919dcca2d60b5c1a4",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/2719d7e1-01a7-42b4-9f43-ca5c5f04fc66_mobile_low.m3u8?sign=5f39749fb9f5c4c926ee088332a89070&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/2719d7e1-01a7-42b4-9f43-ca5c5f04fc66_pc_low.m3u8?sign=2dc4b16da61cd3aa7a1ed11bbe3a2b8d&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/2719d7e1-01a7-42b4-9f43-ca5c5f04fc66_pc_high.m3u8?sign=e3c1d09b9dc2b9a53f93612baf25a6e3&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/2719d7e1-01a7-42b4-9f43-ca5c5f04fc66_pc_mid.m3u8?sign=422d2a852b57a168545c9d9a4e7639f6&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/2719d7e1-01a7-42b4-9f43-ca5c5f04fc66_mobile_mid.m3u8?sign=a7b37b9911c203ea6462752e55897dd2&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab6100019dcca2d60b5c1a8",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:44:48.523Z",
+                    "updatedAt": "2018-03-24T08:46:01.302Z",
+                    "parentId": "5ab60d8519dcca2d60b5c0de",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "代码展示（二）",
+                    "video": {},
+                    "id": "5ab6100019dcca2d60b5c1a8",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/c5481dc4-31ec-4e0c-aa4d-5a89bab3964d_mobile_low.m3u8?sign=cb8fcbc0aa5574c289d717d0505afc28&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/c5481dc4-31ec-4e0c-aa4d-5a89bab3964d_pc_low.m3u8?sign=27b8b27fd21ec6484876a66d56573ced&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/c5481dc4-31ec-4e0c-aa4d-5a89bab3964d_pc_high.m3u8?sign=b934d76768e0776c3081ca5d02940265&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/c5481dc4-31ec-4e0c-aa4d-5a89bab3964d_pc_mid.m3u8?sign=22b7154130b0d5d8de0343f54b5099e0&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/c5481dc4-31ec-4e0c-aa4d-5a89bab3964d_mobile_mid.m3u8?sign=fb52bf047698031a4a4598aaed82f750&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab6100b19dcca2d60b5c1ac",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:44:59.353Z",
+                    "updatedAt": "2018-03-24T08:46:07.606Z",
+                    "parentId": "5ab60d8519dcca2d60b5c0de",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "代码展示（三）",
+                    "video": {},
+                    "id": "5ab6100b19dcca2d60b5c1ac",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                }
+            ]
+        },
+        {
+            "hls": {},
+            "actions": {
+                "watch": false,
+                "download": false
+            },
+            "hide": false,
+            "order": 0,
+            "_id": "5ab60da419dcca2d60b5c0e2",
+            "deletedAt": null,
+            "deleted": false,
+            "createdAt": "2018-03-24T08:34:44.208Z",
+            "updatedAt": "2018-03-24T08:34:44.208Z",
+            "courseId": "5aaf651d77ae46495090ba57",
+            "name": "模拟人类理性的决策树",
+            "id": "5ab60da419dcca2d60b5c0e2",
+            "children": [
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/982801af-4c0d-4108-948a-75ed82bfe78f_mobile_low.m3u8?sign=0393f0e34a5186471f087f3bf7d8ea84&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/982801af-4c0d-4108-948a-75ed82bfe78f_pc_low.m3u8?sign=34b862eb2f37f04218ea2d2e69335e94&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/982801af-4c0d-4108-948a-75ed82bfe78f_pc_high.m3u8?sign=94f10c2f28541eda6be3cad6e18c1f9f&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/982801af-4c0d-4108-948a-75ed82bfe78f_pc_mid.m3u8?sign=d56980015d41c1a8d460ddacb28e4775&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/982801af-4c0d-4108-948a-75ed82bfe78f_mobile_mid.m3u8?sign=3b7698162f621d977db637e8fc6b1811&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab6105c19dcca2d60b5c1cc",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:46:20.152Z",
+                    "updatedAt": "2018-03-24T08:47:49.627Z",
+                    "parentId": "5ab60da419dcca2d60b5c0e2",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "决策树是什么",
+                    "video": {},
+                    "id": "5ab6105c19dcca2d60b5c1cc",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/af0a8390-d5ea-43f7-b349-a726d2aaa019_mobile_low.m3u8?sign=58692f987e2104ca862adcc406be3afb&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/af0a8390-d5ea-43f7-b349-a726d2aaa019_pc_low.m3u8?sign=ae172fd65257b8e2806cd309d7765f3f&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/af0a8390-d5ea-43f7-b349-a726d2aaa019_pc_high.m3u8?sign=63f5d3ac3a11fb634149406acdf2c8b6&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/af0a8390-d5ea-43f7-b349-a726d2aaa019_pc_mid.m3u8?sign=929fafc791afdf7d4fcc0028d860a38b&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/af0a8390-d5ea-43f7-b349-a726d2aaa019_mobile_mid.m3u8?sign=b42dabbf63aba8c98af69c4dbb9f3262&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab6106a19dcca2d60b5c1d0",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:46:34.252Z",
+                    "updatedAt": "2018-03-24T08:47:55.073Z",
+                    "parentId": "5ab60da419dcca2d60b5c0e2",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "信息熵，如何衡量哪些特征重要",
+                    "video": {},
+                    "id": "5ab6106a19dcca2d60b5c1d0",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/146ddb79-e931-45f2-bfaa-8261964da26c_mobile_low.m3u8?sign=5c08e819f2abc783b4e296546f363b95&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/146ddb79-e931-45f2-bfaa-8261964da26c_pc_low.m3u8?sign=d56dcbbe6b77e1e0a20228a0de25dfc8&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/146ddb79-e931-45f2-bfaa-8261964da26c_pc_high.m3u8?sign=315968d74cd975e74b5ea236ddf1b690&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/146ddb79-e931-45f2-bfaa-8261964da26c_pc_mid.m3u8?sign=94f6e30532b2c1922e2c68ed3b860bc2&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/146ddb79-e931-45f2-bfaa-8261964da26c_mobile_mid.m3u8?sign=c14b134ef22d87c77e6c4c556783cb98&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab6107319dcca2d60b5c1d4",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:46:43.377Z",
+                    "updatedAt": "2018-03-24T08:48:04.370Z",
+                    "parentId": "5ab60da419dcca2d60b5c0e2",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "如何用信息增益在决策树中选择特征（一）",
+                    "video": {},
+                    "id": "5ab6107319dcca2d60b5c1d4",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/76d03114-e6ad-4ae4-8964-239c444658d4_mobile_low.m3u8?sign=d1cc1fb52878fd8acbeb56be300a593c&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/76d03114-e6ad-4ae4-8964-239c444658d4_pc_low.m3u8?sign=fae6724c67b375b8ba4e96246e5990e0&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/76d03114-e6ad-4ae4-8964-239c444658d4_pc_high.m3u8?sign=46358a3d5b1bbb2162aa92e7b23a3d04&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/76d03114-e6ad-4ae4-8964-239c444658d4_pc_mid.m3u8?sign=0ce8fabae2d9d13036d5d99a4ed1a5bc&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/76d03114-e6ad-4ae4-8964-239c444658d4_mobile_mid.m3u8?sign=afc79232ac68d9912075190a634cc42b&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab6108119dcca2d60b5c1d8",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:46:57.301Z",
+                    "updatedAt": "2018-03-24T08:48:10.865Z",
+                    "parentId": "5ab60da419dcca2d60b5c0e2",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "如何用信息增益在决策树中选择特征（二）",
+                    "video": {},
+                    "id": "5ab6108119dcca2d60b5c1d8",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/6b9496db-a786-464f-bd35-596fb9c8dca8_mobile_low.m3u8?sign=30af97d881ac00610bc83e866aa7bc61&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/6b9496db-a786-464f-bd35-596fb9c8dca8_pc_low.m3u8?sign=7a4121f05eb85862bc8612790e41d119&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/6b9496db-a786-464f-bd35-596fb9c8dca8_pc_high.m3u8?sign=23d0586bf82f34bf6d18fc1927fda54d&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/6b9496db-a786-464f-bd35-596fb9c8dca8_pc_mid.m3u8?sign=161407959df409132c5630b25bad6a43&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/6b9496db-a786-464f-bd35-596fb9c8dca8_mobile_mid.m3u8?sign=11b86d55ada7d9c14cdd7f997449c2b0&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab6108b19dcca2d60b5c1dc",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:47:07.117Z",
+                    "updatedAt": "2018-03-24T08:48:19.035Z",
+                    "parentId": "5ab60da419dcca2d60b5c0e2",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "决策树的构建何时停下来",
+                    "video": {},
+                    "id": "5ab6108b19dcca2d60b5c1dc",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/b1b46951-4a1a-476b-95f4-3a597c713390_mobile_low.m3u8?sign=3dfeb5430f9cb2715306616d73e296d6&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/b1b46951-4a1a-476b-95f4-3a597c713390_pc_low.m3u8?sign=59ee2086a8b7913180dea87ad062b4e6&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/b1b46951-4a1a-476b-95f4-3a597c713390_pc_high.m3u8?sign=28f89c78100192acb624800b1cd62dbf&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/b1b46951-4a1a-476b-95f4-3a597c713390_pc_mid.m3u8?sign=93b2e8d34a81ba5a816e2b5c07f26d28&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/b1b46951-4a1a-476b-95f4-3a597c713390_mobile_mid.m3u8?sign=3bee72bf7101cdbb50625acdbb4a4436&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab6109819dcca2d60b5c1e0",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:47:20.849Z",
+                    "updatedAt": "2018-03-24T08:48:24.852Z",
+                    "parentId": "5ab60da419dcca2d60b5c0e2",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "决策树如何应对连续特征",
+                    "video": {},
+                    "id": "5ab6109819dcca2d60b5c1e0",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/2ec58134-006e-4eb4-970e-32a5670d9195_mobile_low.m3u8?sign=793c21131cbea411871a78bc76591067&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/2ec58134-006e-4eb4-970e-32a5670d9195_pc_low.m3u8?sign=83f618ebe65930efd5585395194d9b9a&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/2ec58134-006e-4eb4-970e-32a5670d9195_pc_high.m3u8?sign=77575acd6e7ec179bcbbd67d11b1c811&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/2ec58134-006e-4eb4-970e-32a5670d9195_pc_mid.m3u8?sign=a1562a4569678c284dad799a6b49276e&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/2ec58134-006e-4eb4-970e-32a5670d9195_mobile_mid.m3u8?sign=fd6a7f6bdde6964835df9f1ed06c491e&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab610a219dcca2d60b5c1e4",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:47:30.869Z",
+                    "updatedAt": "2018-03-24T08:48:36.433Z",
+                    "parentId": "5ab60da419dcca2d60b5c0e2",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "决策树如何应对过拟合",
+                    "video": {},
+                    "id": "5ab610a219dcca2d60b5c1e4",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/eb5a9f30-8b08-4c41-9588-3feb7c1aa925_mobile_low.m3u8?sign=9a8fa7645313e90b3b116ea4068a24c1&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/eb5a9f30-8b08-4c41-9588-3feb7c1aa925_pc_low.m3u8?sign=fe46be06b27e1c4285611e190b4f3311&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/eb5a9f30-8b08-4c41-9588-3feb7c1aa925_pc_high.m3u8?sign=f15212ba47fc5b8cbece54d0c3103db1&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/eb5a9f30-8b08-4c41-9588-3feb7c1aa925_pc_mid.m3u8?sign=8e6cd872961fd61ab5701fd17d6510b5&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/eb5a9f30-8b08-4c41-9588-3feb7c1aa925_mobile_mid.m3u8?sign=139e9ab2f0733b6aa4f715450f629665&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab610ad19dcca2d60b5c1e8",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:47:41.190Z",
+                    "updatedAt": "2018-03-24T08:48:44.187Z",
+                    "parentId": "5ab60da419dcca2d60b5c0e2",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "随机森林在回归问题上的代码演示",
+                    "video": {},
+                    "id": "5ab610ad19dcca2d60b5c1e8",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                }
+            ]
+        },
+        {
+            "hls": {},
+            "actions": {
+                "watch": false,
+                "download": false
+            },
+            "hide": false,
+            "order": 0,
+            "_id": "5ab60db519dcca2d60b5c0e6",
+            "deletedAt": null,
+            "deleted": false,
+            "createdAt": "2018-03-24T08:35:01.185Z",
+            "updatedAt": "2018-03-24T08:35:01.185Z",
+            "courseId": "5aaf651d77ae46495090ba57",
+            "name": "集群模型",
+            "id": "5ab60db519dcca2d60b5c0e6",
+            "children": [
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/b175118a-83d6-436b-9ae0-f31b5372b82e_mobile_low.m3u8?sign=eebf95d5d5220c5fd372bc64ad67c1a3&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/b175118a-83d6-436b-9ae0-f31b5372b82e_pc_low.m3u8?sign=b99324c362bfdab440acb73227f3c281&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/b175118a-83d6-436b-9ae0-f31b5372b82e_pc_high.m3u8?sign=25ad5ed95b2fcac415197d399ed57ada&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/b175118a-83d6-436b-9ae0-f31b5372b82e_pc_mid.m3u8?sign=fee9e4b4b87963af56d571a232103ca6&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/b175118a-83d6-436b-9ae0-f31b5372b82e_mobile_mid.m3u8?sign=af0046022a1e887d1322c558b2cb951b&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab610f719dcca2d60b5c205",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:48:55.629Z",
+                    "updatedAt": "2018-03-24T08:49:53.732Z",
+                    "parentId": "5ab60db519dcca2d60b5c0e6",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "复习决策树",
+                    "video": {},
+                    "id": "5ab610f719dcca2d60b5c205",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/28e79715-76ca-4e4d-87e0-9345ccb8ae7e_mobile_low.m3u8?sign=5984d1dd697a5dfdd83952a0ca6eba3d&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/28e79715-76ca-4e4d-87e0-9345ccb8ae7e_pc_low.m3u8?sign=8efa79ea155a4e22ff58532b3361d3fe&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/28e79715-76ca-4e4d-87e0-9345ccb8ae7e_pc_high.m3u8?sign=a929c8cb06d90377752f78b748ae4991&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/28e79715-76ca-4e4d-87e0-9345ccb8ae7e_pc_mid.m3u8?sign=01e8c3ee5fb6b0493566dedcc1a3d60d&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/28e79715-76ca-4e4d-87e0-9345ccb8ae7e_mobile_mid.m3u8?sign=4624753655cb0920a4dbe30a3e33dcc4&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab6110019dcca2d60b5c209",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:49:04.766Z",
+                    "updatedAt": "2018-03-24T08:50:01.057Z",
+                    "parentId": "5ab60db519dcca2d60b5c0e6",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "Bagging方法",
+                    "video": {},
+                    "id": "5ab6110019dcca2d60b5c209",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/c84ecfba-bdc9-46f6-bbad-19c82b0018fc_mobile_low.m3u8?sign=8e12a6cb6c3e0bfa5655acf7c4119805&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/c84ecfba-bdc9-46f6-bbad-19c82b0018fc_pc_low.m3u8?sign=ca9c2b7ecb33aa8dde8c9469f092fcef&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/c84ecfba-bdc9-46f6-bbad-19c82b0018fc_pc_high.m3u8?sign=6245f430e0cc992e2cba326585dbb4f7&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/c84ecfba-bdc9-46f6-bbad-19c82b0018fc_pc_mid.m3u8?sign=7bfa8b3fa6ea6b58f26681378f84e07a&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/c84ecfba-bdc9-46f6-bbad-19c82b0018fc_mobile_mid.m3u8?sign=b7dd7895f2d4f903ce4debffc29c6959&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab6110919dcca2d60b5c20d",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:49:13.793Z",
+                    "updatedAt": "2018-03-24T08:50:09.203Z",
+                    "parentId": "5ab60db519dcca2d60b5c0e6",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "Boosting方法（一）",
+                    "video": {},
+                    "id": "5ab6110919dcca2d60b5c20d",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/0eb91bc7-8577-4467-863a-811ffb830b3e_mobile_low.m3u8?sign=f686301fd785c8f236bb4ba5d79d9237&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/0eb91bc7-8577-4467-863a-811ffb830b3e_pc_low.m3u8?sign=3324ff77c0ed2da324eec4ce1318a515&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/0eb91bc7-8577-4467-863a-811ffb830b3e_pc_high.m3u8?sign=16d48b598b036f1f8bc109811ad55179&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/0eb91bc7-8577-4467-863a-811ffb830b3e_pc_mid.m3u8?sign=dc1c243e7e072d88061cb461c434b1e6&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/0eb91bc7-8577-4467-863a-811ffb830b3e_mobile_mid.m3u8?sign=6839982219102240543857d7e978657f&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab6111819dcca2d60b5c211",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:49:28.153Z",
+                    "updatedAt": "2018-03-24T08:50:18.334Z",
+                    "parentId": "5ab60db519dcca2d60b5c0e6",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "Boosting方法（二）",
+                    "video": {},
+                    "id": "5ab6111819dcca2d60b5c211",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/08e860c3-a26f-454b-9313-0199d664f29f_mobile_low.m3u8?sign=1599b4601b0b84a544ed1941f9b00d70&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/08e860c3-a26f-454b-9313-0199d664f29f_pc_low.m3u8?sign=fd6a38b6716ab786c091b68d655ec72c&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/08e860c3-a26f-454b-9313-0199d664f29f_pc_high.m3u8?sign=f7061c456c993f3b861a0c50a300891e&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/08e860c3-a26f-454b-9313-0199d664f29f_pc_mid.m3u8?sign=68537e91fcea295f18fc7723d1baf577&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/08e860c3-a26f-454b-9313-0199d664f29f_mobile_mid.m3u8?sign=903329d7615b5639bb0a5dbda3606428&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab6111f19dcca2d60b5c215",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:49:35.127Z",
+                    "updatedAt": "2018-03-24T08:50:25.170Z",
+                    "parentId": "5ab60db519dcca2d60b5c0e6",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "Boosting方法（三）",
+                    "video": {},
+                    "id": "5ab6111f19dcca2d60b5c215",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/570a46b7-c768-4bab-8bde-84b1dec330dd_mobile_low.m3u8?sign=9d102b4e780619b7c5031303a50b2fce&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/570a46b7-c768-4bab-8bde-84b1dec330dd_pc_low.m3u8?sign=4894893f03d2b979e015009f4b383e72&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/570a46b7-c768-4bab-8bde-84b1dec330dd_pc_high.m3u8?sign=3c5b103a134f72ac13a9db0f20806b38&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/570a46b7-c768-4bab-8bde-84b1dec330dd_pc_mid.m3u8?sign=e2aa647b0e6c16b04c77dfde3a2d48aa&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/570a46b7-c768-4bab-8bde-84b1dec330dd_mobile_mid.m3u8?sign=a4619967bfaec6228fde8948e079db4c&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab6112419dcca2d60b5c219",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:49:40.558Z",
+                    "updatedAt": "2018-03-24T08:50:32.194Z",
+                    "parentId": "5ab60db519dcca2d60b5c0e6",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "Boosting方法（四）",
+                    "video": {},
+                    "id": "5ab6112419dcca2d60b5c219",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                }
+            ]
+        },
+        {
+            "hls": {},
+            "actions": {
+                "watch": false,
+                "download": false
+            },
+            "hide": false,
+            "order": 0,
+            "_id": "5ab60dc119dcca2d60b5c0ea",
+            "deletedAt": null,
+            "deleted": false,
+            "createdAt": "2018-03-24T08:35:13.565Z",
+            "updatedAt": "2018-03-24T08:35:13.565Z",
+            "courseId": "5aaf651d77ae46495090ba57",
+            "name": "PCA",
+            "id": "5ab60dc119dcca2d60b5c0ea",
+            "children": [
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/43094678-f4e9-473d-b9cf-c1475bef0ac6_mobile_low.m3u8?sign=b332894ce1fe9491522602e71d98a4ba&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/43094678-f4e9-473d-b9cf-c1475bef0ac6_pc_low.m3u8?sign=244c55a69d0562f92878334505d2f5ce&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/43094678-f4e9-473d-b9cf-c1475bef0ac6_pc_high.m3u8?sign=70a3b2bcd703cfaafc959d97b359c99b&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/43094678-f4e9-473d-b9cf-c1475bef0ac6_pc_mid.m3u8?sign=fb5ae193b02f2b16039103ec09615b2b&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/43094678-f4e9-473d-b9cf-c1475bef0ac6_mobile_mid.m3u8?sign=e7cc33ab949ac268c5f19f2833852e2d&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab6116719dcca2d60b5c22f",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:50:47.589Z",
+                    "updatedAt": "2018-03-24T08:51:33.927Z",
+                    "parentId": "5ab60dc119dcca2d60b5c0ea",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "主成分分析背后的直觉",
+                    "video": {},
+                    "id": "5ab6116719dcca2d60b5c22f",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/df569af3-63ec-4b73-8b13-91a0c576f2af_mobile_low.m3u8?sign=39834e104426a6d93fad68cc51190264&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/df569af3-63ec-4b73-8b13-91a0c576f2af_pc_low.m3u8?sign=d31610c556c60177342e55a2e7d2fcbb&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/df569af3-63ec-4b73-8b13-91a0c576f2af_pc_high.m3u8?sign=3962e198630749408478f2a5d23e448f&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/df569af3-63ec-4b73-8b13-91a0c576f2af_pc_mid.m3u8?sign=85af355a56afea4a5acc38ee1dbc7f3e&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/df569af3-63ec-4b73-8b13-91a0c576f2af_mobile_mid.m3u8?sign=ac614043910b15029c8b5e9c6ab9eae6&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab6117519dcca2d60b5c233",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:51:01.282Z",
+                    "updatedAt": "2018-03-24T08:51:40.813Z",
+                    "parentId": "5ab60dc119dcca2d60b5c0ea",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "PCA怎么做",
+                    "video": {},
+                    "id": "5ab6117519dcca2d60b5c233",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/5c79488b-c743-47e0-b412-55208f1636f0_mobile_low.m3u8?sign=467df92bc27786a4c08ac52b8cf4fa68&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/5c79488b-c743-47e0-b412-55208f1636f0_pc_low.m3u8?sign=ab7c21f09c98864f5ae75ac7cd4ef052&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/5c79488b-c743-47e0-b412-55208f1636f0_pc_high.m3u8?sign=03741faccafc1ba31672448837a8edf3&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/5c79488b-c743-47e0-b412-55208f1636f0_pc_mid.m3u8?sign=1d3f63d663d777f3b39558335a26f162&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/5c79488b-c743-47e0-b412-55208f1636f0_mobile_mid.m3u8?sign=9e7c17cbe865bb8408bd341918092940&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab6117f19dcca2d60b5c239",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:51:11.101Z",
+                    "updatedAt": "2018-03-24T08:51:47.906Z",
+                    "parentId": "5ab60dc119dcca2d60b5c0ea",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "代码展示（一）",
+                    "video": {},
+                    "id": "5ab6117f19dcca2d60b5c239",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/db354ba5-ce6e-4b36-9ee0-90839d1ad9e4_mobile_low.m3u8?sign=c8f3193c4c70444dcf7e4244ebb3b40d&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/db354ba5-ce6e-4b36-9ee0-90839d1ad9e4_pc_low.m3u8?sign=750b5b64ce0fd50a038bdb721b235e58&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/db354ba5-ce6e-4b36-9ee0-90839d1ad9e4_pc_high.m3u8?sign=b2e9e8a34eac2bcc3de8bfc4466e6520&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/db354ba5-ce6e-4b36-9ee0-90839d1ad9e4_pc_mid.m3u8?sign=cb752a4f03e7c4ed854e931992b44cca&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/db354ba5-ce6e-4b36-9ee0-90839d1ad9e4_mobile_mid.m3u8?sign=6e30de294494b19ab7611a4569fe412f&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab6118819dcca2d60b5c23d",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:51:20.790Z",
+                    "updatedAt": "2018-03-24T08:51:53.709Z",
+                    "parentId": "5ab60dc119dcca2d60b5c0ea",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "代码展示（二）",
+                    "video": {},
+                    "id": "5ab6118819dcca2d60b5c23d",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                }
+            ]
+        },
+        {
+            "hls": {},
+            "actions": {
+                "watch": false,
+                "download": false
+            },
+            "hide": false,
+            "order": 0,
+            "_id": "5ab60dcd19dcca2d60b5c0ee",
+            "deletedAt": null,
+            "deleted": false,
+            "createdAt": "2018-03-24T08:35:25.580Z",
+            "updatedAt": "2018-03-24T08:35:25.580Z",
+            "courseId": "5aaf651d77ae46495090ba57",
+            "name": "升维大法之神经网络",
+            "id": "5ab60dcd19dcca2d60b5c0ee",
+            "children": [
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/b28adbc4-6db2-4cfd-b7a6-2e3a67fab317_mobile_low.m3u8?sign=5283ebcc9d76ecbfb5c0d51d414784d2&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/b28adbc4-6db2-4cfd-b7a6-2e3a67fab317_pc_low.m3u8?sign=6e69f2162c003476238c22063ba2bd65&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/b28adbc4-6db2-4cfd-b7a6-2e3a67fab317_pc_high.m3u8?sign=b6ec05332226164a9d9c5cc32fc996d1&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/b28adbc4-6db2-4cfd-b7a6-2e3a67fab317_pc_mid.m3u8?sign=ebbfb9c5911013a37e12dff588832970&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/b28adbc4-6db2-4cfd-b7a6-2e3a67fab317_mobile_mid.m3u8?sign=4ee01ae2346cf5c3daa6f5bec0d1ea30&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab611b875a69d2d6512c87e",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:52:08.621Z",
+                    "updatedAt": "2018-03-24T08:53:48.498Z",
+                    "parentId": "5ab60dcd19dcca2d60b5c0ee",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "传统机器学习方法的问题（一）",
+                    "video": {},
+                    "id": "5ab611b875a69d2d6512c87e",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/9df74d0d-d2fc-44af-aa70-a63276ad382d_mobile_low.m3u8?sign=107d2862024d70edb78b27920fe68a5e&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/9df74d0d-d2fc-44af-aa70-a63276ad382d_pc_low.m3u8?sign=ffd2d050e9ebbbb4447741403275cc2e&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/9df74d0d-d2fc-44af-aa70-a63276ad382d_pc_high.m3u8?sign=421f82f7d3f41f80b4f8cb038af56cd6&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/9df74d0d-d2fc-44af-aa70-a63276ad382d_pc_mid.m3u8?sign=34d89c6599c2ae190e4668dd8e3d277c&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/9df74d0d-d2fc-44af-aa70-a63276ad382d_mobile_mid.m3u8?sign=5f5dd45d1de05643a179e3dbdbc1b1e8&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab611c575a69d2d6512c884",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:52:21.965Z",
+                    "updatedAt": "2018-03-24T08:53:54.261Z",
+                    "parentId": "5ab60dcd19dcca2d60b5c0ee",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "传统机器学习方法的问题（二）",
+                    "video": {},
+                    "id": "5ab611c575a69d2d6512c884",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/7eb73e57-37c8-4686-b34e-a1c813e192c0_mobile_low.m3u8?sign=47d8116037be56c9fb849edd051d9506&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/7eb73e57-37c8-4686-b34e-a1c813e192c0_pc_low.m3u8?sign=f150765fda59bb0a670827d453be828f&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/7eb73e57-37c8-4686-b34e-a1c813e192c0_pc_high.m3u8?sign=6de0fd6c1d69e39c3ee7942df027e84e&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/7eb73e57-37c8-4686-b34e-a1c813e192c0_pc_mid.m3u8?sign=283af0bcf37ebba3c30cb8c612cd7b0a&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/7eb73e57-37c8-4686-b34e-a1c813e192c0_mobile_mid.m3u8?sign=56a9322868f13dd0947a5c44b05ef689&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab611d075a69d2d6512c889",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:52:32.823Z",
+                    "updatedAt": "2018-03-24T08:53:59.639Z",
+                    "parentId": "5ab60dcd19dcca2d60b5c0ee",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "神经网络的历史发展",
+                    "video": {},
+                    "id": "5ab611d075a69d2d6512c889",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/6d9f4751-cf1f-4b79-a115-c78e89fe9fd0_mobile_low.m3u8?sign=f39666a80ea7bd9a0e682478a6c24330&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/6d9f4751-cf1f-4b79-a115-c78e89fe9fd0_pc_low.m3u8?sign=c189347658b64bd2751fcfe5139d32a4&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/6d9f4751-cf1f-4b79-a115-c78e89fe9fd0_pc_high.m3u8?sign=fe32ac8aae7f24005858022de2311f2e&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/6d9f4751-cf1f-4b79-a115-c78e89fe9fd0_pc_mid.m3u8?sign=8f26b34e28c01013569cc1408f7b391a&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/6d9f4751-cf1f-4b79-a115-c78e89fe9fd0_mobile_mid.m3u8?sign=d64ffa7519d444979235aa83c7fc8a20&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab611db19dcca2d60b5c24d",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:52:43.934Z",
+                    "updatedAt": "2018-03-24T08:54:08.508Z",
+                    "parentId": "5ab60dcd19dcca2d60b5c0ee",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "神经网络三要素之一：权重矩阵",
+                    "video": {},
+                    "id": "5ab611db19dcca2d60b5c24d",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/b60f5eed-f130-4001-9ab5-a28af5101353_mobile_low.m3u8?sign=d5662a154bee77579ccb1f4c7362aa1a&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/b60f5eed-f130-4001-9ab5-a28af5101353_pc_low.m3u8?sign=a62948c82e95eed8c872130c1a779c31&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/b60f5eed-f130-4001-9ab5-a28af5101353_pc_high.m3u8?sign=c747fa4ab1f511d45d817546dfb333a8&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/b60f5eed-f130-4001-9ab5-a28af5101353_pc_mid.m3u8?sign=a015f1d3c83e9317dfb169ecc1e2411f&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/b60f5eed-f130-4001-9ab5-a28af5101353_mobile_mid.m3u8?sign=0b3f22ecb9f8079bd0b7bb1c12fba9db&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab611e519dcca2d60b5c251",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:52:53.932Z",
+                    "updatedAt": "2018-03-24T08:54:15.459Z",
+                    "parentId": "5ab60dcd19dcca2d60b5c0ee",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "神经网络三要素之激活函数、决策层",
+                    "video": {},
+                    "id": "5ab611e519dcca2d60b5c251",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/d83d73c9-a707-4af1-9f3d-bc0d2fbacb8e_mobile_low.m3u8?sign=99ec62ed0d9b281821666766f4695ed2&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/d83d73c9-a707-4af1-9f3d-bc0d2fbacb8e_pc_low.m3u8?sign=c10e7aeba45d0d85b63a0ee0493dfa92&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/d83d73c9-a707-4af1-9f3d-bc0d2fbacb8e_pc_high.m3u8?sign=2745ad1aa92d1c63d597a4f38606a033&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/d83d73c9-a707-4af1-9f3d-bc0d2fbacb8e_pc_mid.m3u8?sign=7edbdb5836d9fa7392e243fc019b3748&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/d83d73c9-a707-4af1-9f3d-bc0d2fbacb8e_mobile_mid.m3u8?sign=aeb871f64e46e8673265e2a2144d8798&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab6120975a69d2d6512c88e",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:53:29.361Z",
+                    "updatedAt": "2018-03-24T08:54:21.989Z",
+                    "parentId": "5ab60dcd19dcca2d60b5c0ee",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "网页展示",
+                    "video": {},
+                    "id": "5ab6120975a69d2d6512c88e",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                }
+            ]
+        },
+        {
+            "hls": {},
+            "actions": {
+                "watch": false,
+                "download": false
+            },
+            "hide": false,
+            "order": 0,
+            "_id": "5ab60dd619dcca2d60b5c0f2",
+            "deletedAt": null,
+            "deleted": false,
+            "createdAt": "2018-03-24T08:35:34.959Z",
+            "updatedAt": "2018-03-24T08:35:34.959Z",
+            "courseId": "5aaf651d77ae46495090ba57",
+            "name": "升维大法之SVM",
+            "id": "5ab60dd619dcca2d60b5c0f2",
+            "children": [
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/0c347a80-0a5b-487c-8dda-647321815c14_mobile_low.m3u8?sign=9aa3216549052b6d41daa54619577d90&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/0c347a80-0a5b-487c-8dda-647321815c14_pc_low.m3u8?sign=956790a02f7185f38f5a07a4e62e45e0&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/0c347a80-0a5b-487c-8dda-647321815c14_pc_high.m3u8?sign=d02acea5db6089d9c7349342f7d0ac92&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/0c347a80-0a5b-487c-8dda-647321815c14_pc_mid.m3u8?sign=cd6e01200c76fd03bd5d8208e598127b&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/0c347a80-0a5b-487c-8dda-647321815c14_mobile_mid.m3u8?sign=cafd2fc3d5e9c7ac4e529c6e8ee649e1&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab6124919dcca2d60b5c26b",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:54:33.404Z",
+                    "updatedAt": "2018-03-24T08:56:21.206Z",
+                    "parentId": "5ab60dd619dcca2d60b5c0f2",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "SVM的目标：如何将间隔最大化",
+                    "video": {},
+                    "id": "5ab6124919dcca2d60b5c26b",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/5e66871b-3390-40f9-b95e-34d86d8bc421_mobile_low.m3u8?sign=73c6a163118638e39cc394e9bf17ac36&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/5e66871b-3390-40f9-b95e-34d86d8bc421_pc_low.m3u8?sign=4093f92d50e73a72f92c924fa000f826&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/5e66871b-3390-40f9-b95e-34d86d8bc421_pc_high.m3u8?sign=462c77cddb461cdd90888f7f8d718d33&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/5e66871b-3390-40f9-b95e-34d86d8bc421_pc_mid.m3u8?sign=8c2936c6e6ffe39896b7462258573fe9&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/5e66871b-3390-40f9-b95e-34d86d8bc421_mobile_mid.m3u8?sign=4f42052c670f572614fe624da4355e99&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab6125319dcca2d60b5c26f",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:54:43.330Z",
+                    "updatedAt": "2018-03-24T08:56:28.068Z",
+                    "parentId": "5ab60dd619dcca2d60b5c0f2",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "SVM要解决什么样的优化问题",
+                    "video": {},
+                    "id": "5ab6125319dcca2d60b5c26f",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/d9fa89df-76d7-4acb-b582-7bb6744800b0_mobile_low.m3u8?sign=5d77d59ab3de5e21def413e261ed01d3&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/d9fa89df-76d7-4acb-b582-7bb6744800b0_pc_low.m3u8?sign=53c6d50c58d0089067cd30427138f777&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/d9fa89df-76d7-4acb-b582-7bb6744800b0_pc_high.m3u8?sign=b2fdeabb289eb1fe73807da40c5a4bee&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/d9fa89df-76d7-4acb-b582-7bb6744800b0_pc_mid.m3u8?sign=4723a429e7fdccf0c9bcc401d4f64006&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/d9fa89df-76d7-4acb-b582-7bb6744800b0_mobile_mid.m3u8?sign=101cff9ba6e3004a47aab57580ed5ab0&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab6125c19dcca2d60b5c273",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:54:52.336Z",
+                    "updatedAt": "2018-03-24T08:56:33.748Z",
+                    "parentId": "5ab60dd619dcca2d60b5c0f2",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "拉格朗日最优问题的解法（一）",
+                    "video": {},
+                    "id": "5ab6125c19dcca2d60b5c273",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/8e143bdb-c016-49fd-b04d-cd50f6bbf407_mobile_low.m3u8?sign=345b462746df86740b411e711bbb6feb&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/8e143bdb-c016-49fd-b04d-cd50f6bbf407_pc_low.m3u8?sign=5e002f691bbe2c044b1e855bfdb06eda&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/8e143bdb-c016-49fd-b04d-cd50f6bbf407_pc_high.m3u8?sign=f0d6c9ec66bc95bbca8370d943d802ce&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/8e143bdb-c016-49fd-b04d-cd50f6bbf407_pc_mid.m3u8?sign=ad74f3495de7a771b6d718133578c8da&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/8e143bdb-c016-49fd-b04d-cd50f6bbf407_mobile_mid.m3u8?sign=57a9d8fe7ad952f04607893002a3b75c&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab6126819dcca2d60b5c277",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:55:04.190Z",
+                    "updatedAt": "2018-03-24T08:56:39.417Z",
+                    "parentId": "5ab60dd619dcca2d60b5c0f2",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "拉格朗日最优问题的解法（二）",
+                    "video": {},
+                    "id": "5ab6126819dcca2d60b5c277",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/16dfbd59-00b4-43e5-8088-df66f72d6441_mobile_low.m3u8?sign=538fe3c041c2fa7276b8b17d1e39ef58&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/16dfbd59-00b4-43e5-8088-df66f72d6441_pc_low.m3u8?sign=18c3e7bcbfa74ed362f653886596dbe7&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/16dfbd59-00b4-43e5-8088-df66f72d6441_pc_high.m3u8?sign=cd749dd1a67ff2f6ebb1d99595557f14&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/16dfbd59-00b4-43e5-8088-df66f72d6441_pc_mid.m3u8?sign=5ed75214e5dd7f3b5b467ffef4d4a6d8&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/16dfbd59-00b4-43e5-8088-df66f72d6441_mobile_mid.m3u8?sign=aaed065d26f973edcc23f7d5fe9ad8cb&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab6127119dcca2d60b5c27b",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:55:13.497Z",
+                    "updatedAt": "2018-03-24T08:56:46.759Z",
+                    "parentId": "5ab60dd619dcca2d60b5c0f2",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "SVM中的软间隔",
+                    "video": {},
+                    "id": "5ab6127119dcca2d60b5c27b",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/bb9066af-3d29-4cdf-b28e-f985169eb9e0_mobile_low.m3u8?sign=047d616b3a90ee960d76c7a2ffe43b60&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/bb9066af-3d29-4cdf-b28e-f985169eb9e0_pc_low.m3u8?sign=442feefdb1b26831fa6624fb7128a433&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/bb9066af-3d29-4cdf-b28e-f985169eb9e0_pc_high.m3u8?sign=654bf3a477a73d86e27b8e8be2ca515a&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/bb9066af-3d29-4cdf-b28e-f985169eb9e0_pc_mid.m3u8?sign=816fc762ba08ddcce64bd3ca45b243cf&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/bb9066af-3d29-4cdf-b28e-f985169eb9e0_mobile_mid.m3u8?sign=33c415e2eda5a9dde0da2487fdb5fea7&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab6127b19dcca2d60b5c27f",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:55:23.443Z",
+                    "updatedAt": "2018-03-24T08:56:54.902Z",
+                    "parentId": "5ab60dd619dcca2d60b5c0f2",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "SVM中的核函数",
+                    "video": {},
+                    "id": "5ab6127b19dcca2d60b5c27f",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/eaa0004d-1a5f-4bfb-a1ba-a07a8acbf30f_mobile_low.m3u8?sign=a7bb5ec15aa043f6104051667a8f97e9&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/eaa0004d-1a5f-4bfb-a1ba-a07a8acbf30f_pc_low.m3u8?sign=73230a239b9853dcf2da08671e52c08b&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/eaa0004d-1a5f-4bfb-a1ba-a07a8acbf30f_pc_high.m3u8?sign=077d376bf1275cdbb3b4608ffd8016d0&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/eaa0004d-1a5f-4bfb-a1ba-a07a8acbf30f_pc_mid.m3u8?sign=ee5a451e9d2944426edf78d29ade9fa1&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/eaa0004d-1a5f-4bfb-a1ba-a07a8acbf30f_mobile_mid.m3u8?sign=a6c646529cc5797d6fea4369608fa33d&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab6128619dcca2d60b5c283",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:55:34.976Z",
+                    "updatedAt": "2018-03-24T08:57:02.381Z",
+                    "parentId": "5ab60dd619dcca2d60b5c0f2",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "核函数为什么有用（一）",
+                    "video": {},
+                    "id": "5ab6128619dcca2d60b5c283",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/16408fb7-1dc0-4e9f-a558-03d42ee8bc51_mobile_low.m3u8?sign=b9769c99bc588aedd6fc8c1dd9a83ee4&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/16408fb7-1dc0-4e9f-a558-03d42ee8bc51_pc_low.m3u8?sign=6fe20a56be7147ea39560e198ab45a08&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/16408fb7-1dc0-4e9f-a558-03d42ee8bc51_pc_high.m3u8?sign=edf06419d6771bd46cc48d1b1a9e1142&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/16408fb7-1dc0-4e9f-a558-03d42ee8bc51_pc_mid.m3u8?sign=15160a8c5063b6dc92a3d24ee4028938&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/16408fb7-1dc0-4e9f-a558-03d42ee8bc51_mobile_mid.m3u8?sign=55fccf911fcc1af4667b113093a5c30b&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab6129219dcca2d60b5c287",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:55:46.028Z",
+                    "updatedAt": "2018-03-24T08:57:08.968Z",
+                    "parentId": "5ab60dd619dcca2d60b5c0f2",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "核函数为什么有用（二）",
+                    "video": {},
+                    "id": "5ab6129219dcca2d60b5c287",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "https://media.wanmen.org/49970d84-3bca-4cc5-8123-cef861037b16_mobile_low.m3u8?sign=52235a2ad6813963fcd395d1e4f845d0&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcLow": "https://media.wanmen.org/49970d84-3bca-4cc5-8123-cef861037b16_pc_low.m3u8?sign=24a7a175dced16a8d82528a4e4fc6ae4&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcHigh": "https://media.wanmen.org/49970d84-3bca-4cc5-8123-cef861037b16_pc_high.m3u8?sign=086415e26966ea5785101a4c4296c641&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "pcMid": "https://media.wanmen.org/49970d84-3bca-4cc5-8123-cef861037b16_pc_mid.m3u8?sign=1a689f1084844eba5e22ced5e886a9d7&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d",
+                        "mobileMid": "https://media.wanmen.org/49970d84-3bca-4cc5-8123-cef861037b16_mobile_mid.m3u8?sign=8fb9412156a83568ecf104d2ea5d955c&t=5bd58280&r=ef951309bd257a91c11fb153ec5e504d"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": false
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5ab6129e19dcca2d60b5c28b",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2018-03-24T08:55:58.407Z",
+                    "updatedAt": "2018-03-24T08:57:19.158Z",
+                    "parentId": "5ab60dd619dcca2d60b5c0f2",
+                    "courseId": "5aaf651d77ae46495090ba57",
+                    "name": "SVM与其他模型的对比",
+                    "video": {},
+                    "id": "5ab6129e19dcca2d60b5c28b",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                }
+            ]
+        }
+    ],
+    "hasTopic": false
+}

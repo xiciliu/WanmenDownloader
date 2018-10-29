@@ -1,0 +1,378 @@
+﻿{
+    "hide": false,
+    "specialTrainingOrder": 0,
+    "likes": 14,
+    "type": "record",
+    "status": "finished",
+    "isOnLive": false,
+    "playbackStatus": "done",
+    "app": "uni",
+    "_id": "587f469c196f0f565637213e",
+    "major": "5a4305620b61756f4d2c44ba",
+    "description": "3个小时的课程会为你打开一扇大门，带你认识程序世界。 没基础的你，会消除对编程的恐惧，收获一项基本技能。有基础的你，能换种视角看待问题，掌握解决问题的方法。",
+    "schedule": [
+        {
+            "_id": "5b9b67ce84ffad12bb922eb2",
+            "endTime": "17:00",
+            "startTime": "14:00",
+            "name": "三小时变身python极客",
+            "startDate": "2016-12-17T16:00:00.000Z"
+        }
+    ],
+    "deleted": false,
+    "bigImage": "https://imgs.wanmen.org/afb01d037017797e44575a67c5c32bbf.png",
+    "finishedAt": "2018-09-14T07:48:30.246Z",
+    "introductionVideoUrl": "https://media.wanmen.org/d5fcb154377d5acc97c41881f868929b_pc_high.m3u8",
+    "smallImage": "https://imgs.wanmen.org/afed0a93201f9d93736e5b1b2998ca79.png",
+    "updatedAt": "2018-09-14T07:48:30.246Z",
+    "teacher": {
+        "_id": "587f40e443a5b3296d0abe9b",
+        "name": "陈驰远",
+        "description": "青橙科技联合创始人&CTO\n入选2018年福布斯中国30位30岁以下精英榜",
+        "avatar": "https://imgs.wanmen.org/c12a58636685ca1b170f5f37e573ff2b.png",
+        "remainingDays": -1,
+        "id": "587f40e443a5b3296d0abe9b"
+    },
+    "createdAt": "2017-01-18T10:42:36.311Z",
+    "name": "三小时变身python极客",
+    "expiration": 12,
+    "deletedAt": null,
+    "streamKey": "6499946024422694",
+    "price": 128,
+    "openingAt": "2016-12-18T06:00:00.000Z",
+    "presentationVideo": {
+        "hls": {
+            "mobileLow": "https://media.wanmen.org/99ea564f-ffdc-4026-88e1-1b34d1f1ab81_mobile_low.m3u8?sign=a67b67b7ecebc42855529234aa3c5317&t=5bd582a4&r=116c6311ef22d35e9cfdf90eb0115618",
+            "pcLow": "https://media.wanmen.org/99ea564f-ffdc-4026-88e1-1b34d1f1ab81_pc_low.m3u8?sign=0b13e1e3aad14ac2d3bb5bb85085a0fb&t=5bd582a4&r=116c6311ef22d35e9cfdf90eb0115618",
+            "pcHigh": "https://media.wanmen.org/99ea564f-ffdc-4026-88e1-1b34d1f1ab81_pc_high.m3u8?sign=a8dfc59232611d77e1a23d8a8516c719&t=5bd582a4&r=116c6311ef22d35e9cfdf90eb0115618",
+            "pcMid": "https://media.wanmen.org/99ea564f-ffdc-4026-88e1-1b34d1f1ab81_pc_mid.m3u8?sign=077d5de619782b0d163af61e3dfee619&t=5bd582a4&r=116c6311ef22d35e9cfdf90eb0115618",
+            "mobileMid": "https://media.wanmen.org/99ea564f-ffdc-4026-88e1-1b34d1f1ab81_mobile_mid.m3u8?sign=5d926045cc14b4071afe42fdd7d0c8f2&t=5bd582a4&r=116c6311ef22d35e9cfdf90eb0115618"
+        },
+        "_id": "595d9e3cd5ff7513b4cec824",
+        "id": "595d9e3cd5ff7513b4cec824"
+    },
+    "numOfClasses": 3,
+    "introductionImages": [],
+    "videoCount": 9,
+    "tag": "陈驰远 大学 三小时 变身 python 极客 Python IT",
+    "documents": [],
+    "order": 15,
+    "opDuration": 8,
+    "edDuration": 10,
+    "bigImageUrl": "https://imgs.wanmen.org/afb01d037017797e44575a67c5c32bbf.png",
+    "smallImageUrl": "https://imgs.wanmen.org/afed0a93201f9d93736e5b1b2998ca79.png",
+    "teacherName": "陈驰远",
+    "teacherAvatar": "https://imgs.wanmen.org/c12a58636685ca1b170f5f37e573ff2b.png",
+    "teacherDescription": "青橙科技联合创始人&CTO\n入选2018年福布斯中国30位30岁以下精英榜",
+    "id": "587f469c196f0f565637213e",
+    "isPaid": true,
+    "remainingDays": 363,
+    "actions": {
+        "watch": true,
+        "download": true
+    },
+    "isLiked": false,
+    "isFaved": false,
+    "history": null,
+    "isPass": false,
+    "lectures": [
+        {
+            "hls": {},
+            "actions": {
+                "watch": false,
+                "download": false
+            },
+            "hide": false,
+            "order": 1,
+            "_id": "586d23555f0712767415ba76",
+            "createdAt": "2017-02-21T17:38:50.979Z",
+            "courseId": "587f469c196f0f565637213e",
+            "name": "课程导学",
+            "updatedAt": "2018-01-08T06:13:55.616Z",
+            "description": null,
+            "id": "586d23555f0712767415ba76",
+            "children": [
+                {
+                    "hls": {
+                        "mobileLow": "http://media.wanmen.org/b270ee94-da48-4da0-9c50-0eca720b7634_mobile_low.m3u8?sign=f121adb4f3f3b5aed0e0cebcf298a0a7&t=5bd582a4&r=116c6311ef22d35e9cfdf90eb0115618",
+                        "pcLow": "https://media.wanmen.org/b270ee94-da48-4da0-9c50-0eca720b7634_pc_low.m3u8?sign=7130179fa53c6143c33849f30f3e1afb&t=5bd582a4&r=116c6311ef22d35e9cfdf90eb0115618",
+                        "pcHigh": "https://media.wanmen.org/b270ee94-da48-4da0-9c50-0eca720b7634_pc_high.m3u8?sign=6176f22afd62a98506f21048ac446197&t=5bd582a4&r=116c6311ef22d35e9cfdf90eb0115618",
+                        "pcMid": "https://media.wanmen.org/b270ee94-da48-4da0-9c50-0eca720b7634_pc_mid.m3u8?sign=0d54595dccad04d8ef4b8162396c209d&t=5bd582a4&r=116c6311ef22d35e9cfdf90eb0115618",
+                        "mobileMid": "http://media.wanmen.org/b270ee94-da48-4da0-9c50-0eca720b7634_mobile_mid.m3u8?sign=1612fb5b06abd6c77a6e1e4c7ad83318&t=5bd582a4&r=116c6311ef22d35e9cfdf90eb0115618"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": true
+                    },
+                    "hide": false,
+                    "order": 1,
+                    "_id": "586d23535f0712767415abff",
+                    "createdAt": "2017-02-21T17:38:50.988Z",
+                    "courseId": "587f469c196f0f565637213e",
+                    "parentId": "586d23555f0712767415ba76",
+                    "name": "课程导学",
+                    "updatedAt": "2017-12-23T03:09:14.267Z",
+                    "video": {},
+                    "from": "playback",
+                    "id": "586d23535f0712767415abff",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "http://media.wanmen.org/c94a5e88-7ac0-499b-941e-521fb1d74c49_mobile_low.m3u8?sign=bc47ae776dff84e2bf57142df0531fa4&t=5bd582a4&r=116c6311ef22d35e9cfdf90eb0115618",
+                        "pcLow": "https://media.wanmen.org/c94a5e88-7ac0-499b-941e-521fb1d74c49_pc_low.m3u8?sign=42043968e7a1dc79a211df3ef519dea9&t=5bd582a4&r=116c6311ef22d35e9cfdf90eb0115618",
+                        "pcHigh": "https://media.wanmen.org/c94a5e88-7ac0-499b-941e-521fb1d74c49_pc_high.m3u8?sign=d2cd909d2fd026830e3defa6d23667e7&t=5bd582a4&r=116c6311ef22d35e9cfdf90eb0115618",
+                        "pcMid": "https://media.wanmen.org/c94a5e88-7ac0-499b-941e-521fb1d74c49_pc_mid.m3u8?sign=de2e0bdf6bc6e603ee1a973901b7249a&t=5bd582a4&r=116c6311ef22d35e9cfdf90eb0115618",
+                        "mobileMid": "http://media.wanmen.org/c94a5e88-7ac0-499b-941e-521fb1d74c49_mobile_mid.m3u8?sign=756de9d8bc88f9461dcc8d0eff61282a&t=5bd582a4&r=116c6311ef22d35e9cfdf90eb0115618"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": true
+                    },
+                    "hide": false,
+                    "order": 2,
+                    "_id": "586d23535f0712767415ad6c",
+                    "createdAt": "2017-02-21T17:38:50.992Z",
+                    "courseId": "587f469c196f0f565637213e",
+                    "parentId": "586d23555f0712767415ba76",
+                    "name": "基础数据类型和数据结构",
+                    "updatedAt": "2017-12-23T03:09:17.810Z",
+                    "video": {},
+                    "from": "playback",
+                    "id": "586d23535f0712767415ad6c",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "http://media.wanmen.org/4164f3a8-9d76-4541-9cbb-952fa0ec156d_mobile_low.m3u8?sign=b849ab013174c496d30413869db7d9e3&t=5bd582a4&r=116c6311ef22d35e9cfdf90eb0115618",
+                        "pcLow": "https://media.wanmen.org/4164f3a8-9d76-4541-9cbb-952fa0ec156d_pc_low.m3u8?sign=35b7c42287c21336c3aeaea79d723610&t=5bd582a4&r=116c6311ef22d35e9cfdf90eb0115618",
+                        "pcHigh": "https://media.wanmen.org/4164f3a8-9d76-4541-9cbb-952fa0ec156d_pc_high.m3u8?sign=38b7f991abb6f27e35b9686f140e7b8f&t=5bd582a4&r=116c6311ef22d35e9cfdf90eb0115618",
+                        "pcMid": "https://media.wanmen.org/4164f3a8-9d76-4541-9cbb-952fa0ec156d_pc_mid.m3u8?sign=3e06840733d57a5cfb2dd7dbf9b799b1&t=5bd582a4&r=116c6311ef22d35e9cfdf90eb0115618",
+                        "mobileMid": "http://media.wanmen.org/4164f3a8-9d76-4541-9cbb-952fa0ec156d_mobile_mid.m3u8?sign=eab2a73efbb4e1b96474cbbe0070e977&t=5bd582a4&r=116c6311ef22d35e9cfdf90eb0115618"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": true
+                    },
+                    "hide": false,
+                    "order": 3,
+                    "_id": "586d23535f0712767415ad6d",
+                    "createdAt": "2017-02-21T17:38:50.994Z",
+                    "courseId": "587f469c196f0f565637213e",
+                    "parentId": "586d23555f0712767415ba76",
+                    "name": "python的编码",
+                    "updatedAt": "2017-12-23T03:09:21.567Z",
+                    "video": {},
+                    "from": "playback",
+                    "id": "586d23535f0712767415ad6d",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                }
+            ]
+        },
+        {
+            "hls": {},
+            "actions": {
+                "watch": false,
+                "download": false
+            },
+            "hide": false,
+            "order": 2,
+            "_id": "586d23555f0712767415ba95",
+            "createdAt": "2017-02-21T17:38:51.065Z",
+            "courseId": "587f469c196f0f565637213e",
+            "name": "函数与模块",
+            "updatedAt": "2018-01-08T06:13:47.065Z",
+            "description": null,
+            "id": "586d23555f0712767415ba95",
+            "children": [
+                {
+                    "hls": {
+                        "mobileLow": "http://media.wanmen.org/0bac1a19-d9ac-4d4e-8ed4-12ea6b95f4e1_mobile_low.m3u8?sign=608450fd81efef363c171ca673a47642&t=5bd582a4&r=116c6311ef22d35e9cfdf90eb0115618",
+                        "pcLow": "https://media.wanmen.org/0bac1a19-d9ac-4d4e-8ed4-12ea6b95f4e1_pc_low.m3u8?sign=c4b3d5c21d3e134780e723608acfe0cc&t=5bd582a4&r=116c6311ef22d35e9cfdf90eb0115618",
+                        "pcHigh": "https://media.wanmen.org/0bac1a19-d9ac-4d4e-8ed4-12ea6b95f4e1_pc_high.m3u8?sign=ce62d66c63af9af491244a9ba9e05062&t=5bd582a4&r=116c6311ef22d35e9cfdf90eb0115618",
+                        "pcMid": "https://media.wanmen.org/0bac1a19-d9ac-4d4e-8ed4-12ea6b95f4e1_pc_mid.m3u8?sign=f796ca0b1924cb9327577a9db9bc3009&t=5bd582a4&r=116c6311ef22d35e9cfdf90eb0115618",
+                        "mobileMid": "http://media.wanmen.org/0bac1a19-d9ac-4d4e-8ed4-12ea6b95f4e1_mobile_mid.m3u8?sign=370b664ddfcffbc2cab509299a8f4822&t=5bd582a4&r=116c6311ef22d35e9cfdf90eb0115618"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": true
+                    },
+                    "hide": false,
+                    "order": 1,
+                    "_id": "586d23535f0712767415ac4d",
+                    "createdAt": "2017-02-21T17:38:51.068Z",
+                    "courseId": "587f469c196f0f565637213e",
+                    "parentId": "586d23555f0712767415ba95",
+                    "name": "函数",
+                    "updatedAt": "2017-12-23T03:09:34.282Z",
+                    "video": {},
+                    "from": "playback",
+                    "id": "586d23535f0712767415ac4d",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "http://media.wanmen.org/d63f3c54-7b62-4cc9-8bd6-f23fb56d1d2d_mobile_low.m3u8?sign=4750c2e1a75ab01fc9fbee5a662ee255&t=5bd582a4&r=116c6311ef22d35e9cfdf90eb0115618",
+                        "pcLow": "https://media.wanmen.org/d63f3c54-7b62-4cc9-8bd6-f23fb56d1d2d_pc_low.m3u8?sign=15a641cb27872a1361e12b114ab77563&t=5bd582a4&r=116c6311ef22d35e9cfdf90eb0115618",
+                        "pcHigh": "https://media.wanmen.org/d63f3c54-7b62-4cc9-8bd6-f23fb56d1d2d_pc_high.m3u8?sign=bc953c548bd8aa3729b2022c3f1da7b8&t=5bd582a4&r=116c6311ef22d35e9cfdf90eb0115618",
+                        "pcMid": "https://media.wanmen.org/d63f3c54-7b62-4cc9-8bd6-f23fb56d1d2d_pc_mid.m3u8?sign=575310d0cf358384d6d5c971284fd8f9&t=5bd582a4&r=116c6311ef22d35e9cfdf90eb0115618",
+                        "mobileMid": "http://media.wanmen.org/d63f3c54-7b62-4cc9-8bd6-f23fb56d1d2d_mobile_mid.m3u8?sign=069c39cc656618000f99a2a5ed117b46&t=5bd582a4&r=116c6311ef22d35e9cfdf90eb0115618"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": true
+                    },
+                    "hide": false,
+                    "order": 2,
+                    "_id": "586d23535f0712767415ad6e",
+                    "createdAt": "2017-02-21T17:38:51.071Z",
+                    "courseId": "587f469c196f0f565637213e",
+                    "parentId": "586d23555f0712767415ba95",
+                    "name": "模块",
+                    "updatedAt": "2017-12-23T03:09:39.396Z",
+                    "video": {},
+                    "from": "playback",
+                    "id": "586d23535f0712767415ad6e",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                }
+            ]
+        },
+        {
+            "hls": {},
+            "actions": {
+                "watch": false,
+                "download": false
+            },
+            "hide": false,
+            "order": 3,
+            "_id": "586d23555f0712767415ba96",
+            "createdAt": "2017-02-21T17:38:51.141Z",
+            "courseId": "587f469c196f0f565637213e",
+            "name": "实战攻关",
+            "updatedAt": "2018-01-08T06:14:12.366Z",
+            "description": null,
+            "id": "586d23555f0712767415ba96",
+            "children": [
+                {
+                    "hls": {
+                        "mobileLow": "http://media.wanmen.org/63936e23-3c31-48d3-9d0e-fdba745599af_mobile_low.m3u8?sign=555fd8c5494b730e7bc72805c2dee2b2&t=5bd582a4&r=116c6311ef22d35e9cfdf90eb0115618",
+                        "pcLow": "https://media.wanmen.org/63936e23-3c31-48d3-9d0e-fdba745599af_pc_low.m3u8?sign=3d6483016b1b29e56b58501c38187a2c&t=5bd582a4&r=116c6311ef22d35e9cfdf90eb0115618",
+                        "pcHigh": "https://media.wanmen.org/63936e23-3c31-48d3-9d0e-fdba745599af_pc_high.m3u8?sign=bda81097588b1616eaaf58cd24ac8449&t=5bd582a4&r=116c6311ef22d35e9cfdf90eb0115618",
+                        "pcMid": "https://media.wanmen.org/63936e23-3c31-48d3-9d0e-fdba745599af_pc_mid.m3u8?sign=55db28ca3d3e572d945f46446b854ef2&t=5bd582a4&r=116c6311ef22d35e9cfdf90eb0115618",
+                        "mobileMid": "http://media.wanmen.org/63936e23-3c31-48d3-9d0e-fdba745599af_mobile_mid.m3u8?sign=6a500ef787423dc986c5e752be3a33a2&t=5bd582a4&r=116c6311ef22d35e9cfdf90eb0115618"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": true
+                    },
+                    "hide": false,
+                    "order": 1,
+                    "_id": "586d23535f0712767415ac4e",
+                    "createdAt": "2017-02-21T17:38:51.144Z",
+                    "courseId": "587f469c196f0f565637213e",
+                    "parentId": "586d23555f0712767415ba96",
+                    "name": "实战攻关-人脸识别1",
+                    "updatedAt": "2017-12-23T03:09:52.862Z",
+                    "video": {},
+                    "from": "playback",
+                    "id": "586d23535f0712767415ac4e",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "http://media.wanmen.org/0964ff6f-e06f-45c8-baa3-847665312837_mobile_low.m3u8?sign=6f1151d1774afb40fb57cfe9f1b311ec&t=5bd582a4&r=116c6311ef22d35e9cfdf90eb0115618",
+                        "pcLow": "https://media.wanmen.org/0964ff6f-e06f-45c8-baa3-847665312837_pc_low.m3u8?sign=e50a0ec75c790152a108743b605a5f92&t=5bd582a4&r=116c6311ef22d35e9cfdf90eb0115618",
+                        "pcHigh": "https://media.wanmen.org/0964ff6f-e06f-45c8-baa3-847665312837_pc_high.m3u8?sign=12975ca3c71cfba1729b0cb6099b5351&t=5bd582a4&r=116c6311ef22d35e9cfdf90eb0115618",
+                        "pcMid": "https://media.wanmen.org/0964ff6f-e06f-45c8-baa3-847665312837_pc_mid.m3u8?sign=9d434d1a68049e0216c2066c11db48ca&t=5bd582a4&r=116c6311ef22d35e9cfdf90eb0115618",
+                        "mobileMid": "http://media.wanmen.org/0964ff6f-e06f-45c8-baa3-847665312837_mobile_mid.m3u8?sign=8f60f52231b68e39b5f5a1334a80b72e&t=5bd582a4&r=116c6311ef22d35e9cfdf90eb0115618"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": true
+                    },
+                    "hide": false,
+                    "order": 2,
+                    "_id": "586d23535f0712767415ad6f",
+                    "createdAt": "2017-02-21T17:38:51.147Z",
+                    "courseId": "587f469c196f0f565637213e",
+                    "parentId": "586d23555f0712767415ba96",
+                    "name": "实战攻关-人脸识别2",
+                    "updatedAt": "2017-12-23T03:09:59.143Z",
+                    "video": {},
+                    "from": "playback",
+                    "id": "586d23535f0712767415ad6f",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "http://media.wanmen.org/7b4cb035-5edd-4b4f-80f3-694ef125532b_mobile_low.m3u8?sign=6f9da2b48aed8c8cc6d04850bb2012f2&t=5bd582a4&r=116c6311ef22d35e9cfdf90eb0115618",
+                        "pcLow": "https://media.wanmen.org/7b4cb035-5edd-4b4f-80f3-694ef125532b_pc_low.m3u8?sign=8398f742140f44f56ef367ecb32fd33f&t=5bd582a4&r=116c6311ef22d35e9cfdf90eb0115618",
+                        "pcHigh": "https://media.wanmen.org/7b4cb035-5edd-4b4f-80f3-694ef125532b_pc_high.m3u8?sign=8263c813ec1a8e0d1e1ae519e0a542d7&t=5bd582a4&r=116c6311ef22d35e9cfdf90eb0115618",
+                        "pcMid": "https://media.wanmen.org/7b4cb035-5edd-4b4f-80f3-694ef125532b_pc_mid.m3u8?sign=c90be591dec5e54383ebfdf973ccd2b8&t=5bd582a4&r=116c6311ef22d35e9cfdf90eb0115618",
+                        "mobileMid": "http://media.wanmen.org/7b4cb035-5edd-4b4f-80f3-694ef125532b_mobile_mid.m3u8?sign=ec9d38bca3c81f9c85fb52d42c575aac&t=5bd582a4&r=116c6311ef22d35e9cfdf90eb0115618"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": true
+                    },
+                    "hide": false,
+                    "order": 3,
+                    "_id": "586d23535f0712767415ad70",
+                    "createdAt": "2017-02-21T17:38:51.150Z",
+                    "courseId": "587f469c196f0f565637213e",
+                    "parentId": "586d23555f0712767415ba96",
+                    "name": "实战攻关-人脸识别3",
+                    "updatedAt": "2017-12-23T03:10:03.950Z",
+                    "video": {},
+                    "from": "playback",
+                    "id": "586d23535f0712767415ad70",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "http://media.wanmen.org/cc34efc8-4f95-4a8b-82cd-fb3f52b1a5d4_mobile_low.m3u8?sign=a788b7e1d2795271b4bfcef885f34bf1&t=5bd582a4&r=116c6311ef22d35e9cfdf90eb0115618",
+                        "pcLow": "https://media.wanmen.org/cc34efc8-4f95-4a8b-82cd-fb3f52b1a5d4_pc_low.m3u8?sign=46deebebfe1a626ee6d386dc813e6893&t=5bd582a4&r=116c6311ef22d35e9cfdf90eb0115618",
+                        "pcHigh": "https://media.wanmen.org/cc34efc8-4f95-4a8b-82cd-fb3f52b1a5d4_pc_high.m3u8?sign=5579acd31c4bbb5ab594842a8145dd51&t=5bd582a4&r=116c6311ef22d35e9cfdf90eb0115618",
+                        "pcMid": "https://media.wanmen.org/cc34efc8-4f95-4a8b-82cd-fb3f52b1a5d4_pc_mid.m3u8?sign=61c3be312b92638ee3fdcdc5e4b24c4f&t=5bd582a4&r=116c6311ef22d35e9cfdf90eb0115618",
+                        "mobileMid": "http://media.wanmen.org/cc34efc8-4f95-4a8b-82cd-fb3f52b1a5d4_mobile_mid.m3u8?sign=630249a56f09ea7393aebe92a7b654eb&t=5bd582a4&r=116c6311ef22d35e9cfdf90eb0115618"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": true
+                    },
+                    "hide": false,
+                    "order": 4,
+                    "_id": "586d23535f0712767415ad71",
+                    "createdAt": "2017-02-21T17:38:51.152Z",
+                    "courseId": "587f469c196f0f565637213e",
+                    "parentId": "586d23555f0712767415ba96",
+                    "name": "实战攻关-人脸识别4",
+                    "updatedAt": "2017-12-23T03:10:08.645Z",
+                    "video": {},
+                    "from": "playback",
+                    "id": "586d23535f0712767415ad71",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                }
+            ]
+        }
+    ],
+    "hasTopic": false
+}

@@ -1,0 +1,30 @@
+﻿
+
+
+lecture 1.7
+https://www.wanmen.org/courses/5b74db50d3dd5f78a6289b7f/lectures/5b9382581bd54259a0a20116
+
+fetch m3u8 list
+https://api.wanmen.org/4.0/content/courses/5b74db50d3dd5f78a6289b7f
+
+6
+https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536392266_1536393816.m3u8?sign=b544052be99f68b2ce77b454791e130b&t=5bd1ff04&r=7d8e3a18e1ac44538a6d5ab18828d2dc
+first
+/fragments/z1.wanmen.44508051991983044/1536392275604-1536392283937.ts
+https://playback.wanmen.org/fragments/z1.wanmen.44508051991983044/1536392275604-1536392283937.ts
+
+first pcHigh
+https://playback.wanmen.org/recordings/z1.wanmen.44508051991983044/1536370166_1536373477.m3u8?sign=78a0dbdbf4d0dbb7a4d67601cd232a92&t=5bd1ff04&r=7d8e3a18e1ac44538a6d5ab18828d2dc
+
+first ts
+/fragments/z1.wanmen.44508051991983044/1536370173987-1536370182320.ts
+third ts
+https://media.wanmen.org//fragments/z1.wanmen.44508051991983044/1536370198993-1536370205259.ts
+
+当m3u8是这样的带media时候
+https://media.wanmen.org/a7e15b93-c3c1-4193-be6b-5dbed204b097_pc_high.m3u8?sign=5475bd976cf118c2b93c2a49e33d7539&t=5bd582a4&r=d6dd483afc95e2b541c98128e4472bbf
+那么需要检查得到的m3u8文件，
+如果文件中没有/fragments/z1.wanmen.44xxxx/1536370198993-1536370205259.ts这样的格式，此时的下载地址是https://playback.wanmen.org/fragments/z1.wanmen.44508051991983044/1536392275604-1536392283937.ts
+而是直接的ts文件a7e15b93-c3c1-4193-be6b-5dbed204b097_pc_high0.ts
+则文件下载地址应该是 https://media.wanmen.org/a7e15b93-c3c1-4193-be6b-5dbed204b097_pc_high0.ts
+
