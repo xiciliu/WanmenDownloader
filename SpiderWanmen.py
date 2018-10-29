@@ -226,25 +226,28 @@ def readfromfile():
         str = str.encode('utf8')[3:].decode('utf8')
     return json.loads(str)
 
-def down2():
+def down2(courseid,fromCache):
     login()
     
-    courseid='590c489571b2262ac78f1d75'
-    urlconfig='https://api.wanmen.org/4.0/content/courses/'+courseid
-    res = requests.get(urlconfig,cookies=thecookies,proxies=proxies)
-    #res.text
-    print(res.json())
-    js=res.json()
-    
-    #加载已经下载到本地的json清单文件
-    #js=readfromfile()
+    js={}
+    if fromCache:
+        #加载已经下载到本地的json清单文件
+        js=readfromfile()
+    else:
+        #courseid='590c489571b2262ac78f1d75'
+        urlconfig='https://api.wanmen.org/4.0/content/courses/'+courseid
+        res = requests.get(urlconfig,cookies=thecookies,proxies=proxies)
+        #res.text
+        print(res.json())
+        js=res.json()
     
     #ok, 下载课程说明和ppt课件
     global savein
     name=js['name']
     savein=savein+name+'/'
-    with open(savein+courseid+'.txt', "w") as f:
-        f.write(res.text)
+    if not fromCache:
+        with open(savein+courseid+'.txt', "w") as f:
+            f.write(res.text)
         
     presentationVideo=js['presentationVideo']['hls']['pcHigh']
     if os.path.exists(savein+name+'.mp4'):
@@ -373,7 +376,7 @@ def testGetList():
 #test()
 #testRemoveFragment()
 #testGetList()
-down2()
+down2('590c489571b2262ac78f1d75',False)
 
 
 
