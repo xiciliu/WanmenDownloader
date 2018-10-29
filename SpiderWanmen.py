@@ -378,7 +378,6 @@ def testGetList():
 #获取套餐课程
 def getPackages():
     login()
-
     headers = {
         "Accept": "application/json, text/plain, */*",
         "Accept-Encoding": "gzip, deflate, br",
