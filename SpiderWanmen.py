@@ -16,6 +16,7 @@ proxies = {
   "https": "http://135.245.248.89:8000",
 }
 proxies=None
+session=requests.Session()
 
 #savein='course/'
 savein='I:/Technology/AI/course/'
@@ -215,8 +216,10 @@ a7e15b93-c3c1-4193-be6b-5dbed204b097_mobile_low1.ts
 def login():
     loginurl='https://api.wanmen.org/4.0/main/signin'
     res=requests.post(loginurl,data={"account":"13651819457","password":"1234abcd","code":"","unionid":"","thirdtype":"","nickname":""},proxies=proxies)
+    #res=session.post(loginurl,data={"account":"13651819457","password":"1234abcd","code":"","unionid":"","thirdtype":"","nickname":""},proxies=proxies)
     print(res.text)
-    thecookies=res.cookies
+    thecookies = requests.utils.dict_from_cookiejar(res.cookies)
+    print(thecookies)
 
 def readfromfile():
     f=open('./587f469c196f0f565637213e.txt','r',encoding = 'utf-8')
@@ -371,11 +374,57 @@ def testGetList():
         print('fine data')
     else:
         print('bad data')
+
+#获取套餐课程
+def getPackages():
+    login()
+
+    headers = {
+        "Accept": "application/json, text/plain, */*",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Accept-Language": "zh-CN,zh;q=0.9",
+        "Cache-Control": "no-cache",
+        
+        #"Connection": "keep-alive",
+        #"Content-Type":"application/json;charset=utf-8",
+        #"DNT": "1",
+        #"Host": 'playback.wanmen.org',
+        
+        #":authority": "api.wanmen.org",
+        #":method": "GET",
+        #":path": "/4.0/me/packages",
+        #":scheme": "https",
+        "accept": "application/json, text/plain, */*",
+        "accept-encoding": "gzip, deflate, br",
+        "accept-language": "zh-CN,zh;q=0.9",
+        "authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjViY2Y0NWUxOWI1NWJiYTk0NTRjYWM2ZSIsImlhdCI6MTU0MDc4ODM4NCwiZXhwIjoxNTQzMzgwMzg0LCJpc3MiOiJ1cm46YXBpIn0.4j_TIj0Ugb7gQ9B6nX0HlA7V017iqV9lttNK03s1vTs", #同session下相同
+        "origin": "https://www.wanmen.org",
+        "referer": "https://www.wanmen.org/account/paid",
+        "user-agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.67 Safari/537.36",
+        "x-app": "uni",
+        "x-time": "5bd69264",   #不同
+        "x-token": "432b7cbf9f177aac67a55d2afba81f5c" #不同
+      }
+    print(thecookies)
+    thecookies['Hm_lpvt_5b0b6201f68e4ffddfe9484b779c6fc4']='1540789713'
+    thecookies['Hm_lpvt_d3bc061b6a5d5d3715b5bed369a65ccb']='1540789713'
+    thecookies['UM_distinctid']='166be38d17818-0350e451a262d48-3a064d5a-100200-166be38d1790'
+    thecookies['_ga']='GA1.2.761715717.1540789713'
+    thecookies['_gid']='GA1.2.319287049.1540789713'
+    thecookies['Hm_lvt_5b0b6201f68e4ffddfe9484b779c6fc4']='1540384666,1540516330,1540789513'
+    thecookies['Hm_lvt_d3bc061b6a5d5d3715b5bed369a65ccb']='1540384666,1540516330,1540789514'
+    thecookies['thirdLogin']=''
+    thecookies['CNZZDATA1272834321']='222518564-1540787238-%7C1540787238' #222518564-1540787238-|1540787238
+    print(thecookies)
+    url='https://www.wanmen.org/account/paid'
+    res = requests.get(url,cookies=thecookies,headers=headers,proxies=proxies)
+    print(res.text)
         
 #testCreateDir()
 #test()
 #testRemoveFragment()
 #testGetList()
+#getPackages()
 down2('590c489571b2262ac78f1d75',False)
 
 
