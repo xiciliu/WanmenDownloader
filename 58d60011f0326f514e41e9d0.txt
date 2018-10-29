@@ -1,0 +1,475 @@
+﻿{
+    "hide": false,
+    "specialTrainingOrder": 0,
+    "likes": 2,
+    "type": "record",
+    "status": "finished",
+    "isOnLive": false,
+    "playbackStatus": "done",
+    "app": "uni",
+    "_id": "58d60011f0326f514e41e9d0",
+    "major": "5a43057f0b61756f4d2c44c1",
+    "description": "本课程将会带你进入iOS开发技术的世界，主要介绍Objective-C的语法特性、编程工具的使用方法和高效编程技巧，并实例演示如何创建一个自己的App。",
+    "schedule": [
+        {
+            "_id": "5b9b67eb693f3d7bbc2e1529",
+            "endTime": "21:00",
+            "startTime": "18:00",
+            "name": "iOS开发三小时极速入门",
+            "startDate": "2017-04-14T16:00:00.000Z"
+        }
+    ],
+    "deleted": false,
+    "bigImage": "https://imgs.wanmen.org/1c199a1f537c75f8598471307f48cf37.png",
+    "finishedAt": "2018-09-14T07:48:59.211Z",
+    "introductionVideoUrl": "https://media.wanmen.org/f14def52540fdbed02ae4184e6a9004f_pc_high.m3u8",
+    "smallImage": "https://imgs.wanmen.org/9d616494be76e7264422e788b3b2974f.png",
+    "updatedAt": "2018-09-14T07:48:59.211Z",
+    "teacher": {
+        "_id": "58d4b42fe69dfd54662ae81c",
+        "name": "秦阳",
+        "description": "资深iOS开发工程师，毕业于浙江大学计算机学院，先后就职于微软和滴滴出行，在iOS开发技术方面有丰富的经验。",
+        "avatar": "https://imgs.wanmen.org/727929a482bbd4138a08c68a613ec0a0.png",
+        "remainingDays": -1,
+        "id": "58d4b42fe69dfd54662ae81c"
+    },
+    "createdAt": "2017-03-25T05:28:49.658Z",
+    "name": "iOS开发三小时极速入门",
+    "isPinned": true,
+    "expiration": 12,
+    "deletedAt": null,
+    "streamKey": "5775589038927842",
+    "price": 98,
+    "openingAt": "2017-04-15T05:07:19.653Z",
+    "numOfClasses": 3,
+    "tag": "秦阳 大学 iOS 开发 三小时 极速 入门 万门 通识 ",
+    "introductionImages": [],
+    "videoCount": 12,
+    "presentationVideo": {
+        "hls": {
+            "mobileLow": "https://media.wanmen.org/9cb5f2d7-350b-428f-b7e7-32f714c2db20_mobile_low.m3u8?sign=2de3f5921cd5c552a58794c4859b9968&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657",
+            "pcLow": "https://media.wanmen.org/9cb5f2d7-350b-428f-b7e7-32f714c2db20_pc_low.m3u8?sign=bd0e766c3deb5413046478919d55dc70&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657",
+            "pcHigh": "https://media.wanmen.org/9cb5f2d7-350b-428f-b7e7-32f714c2db20_pc_high.m3u8?sign=98a9a2b860c1777c0c0b8fb4f1951c8c&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657",
+            "pcMid": "https://media.wanmen.org/9cb5f2d7-350b-428f-b7e7-32f714c2db20_pc_mid.m3u8?sign=ddd163d7769381f8ea5a4fe76924fe2d&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657",
+            "mobileMid": "https://media.wanmen.org/9cb5f2d7-350b-428f-b7e7-32f714c2db20_mobile_mid.m3u8?sign=27c0aa33a48806d75169592420fb7a3b&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657"
+        },
+        "_id": "5a9d400851f0745208e03e16",
+        "id": "5a9d400851f0745208e03e16"
+    },
+    "documents": [],
+    "order": 999,
+    "opDuration": 8,
+    "edDuration": 10,
+    "bigImageUrl": "https://imgs.wanmen.org/1c199a1f537c75f8598471307f48cf37.png",
+    "smallImageUrl": "https://imgs.wanmen.org/9d616494be76e7264422e788b3b2974f.png",
+    "teacherName": "秦阳",
+    "teacherAvatar": "https://imgs.wanmen.org/727929a482bbd4138a08c68a613ec0a0.png",
+    "teacherDescription": "资深iOS开发工程师，毕业于浙江大学计算机学院，先后就职于微软和滴滴出行，在iOS开发技术方面有丰富的经验。",
+    "id": "58d60011f0326f514e41e9d0",
+    "isPaid": true,
+    "remainingDays": 362,
+    "actions": {
+        "watch": true,
+        "download": true
+    },
+    "isLiked": false,
+    "isFaved": false,
+    "history": null,
+    "isPass": false,
+    "lectures": [
+        {
+            "hls": {},
+            "actions": {
+                "watch": false,
+                "download": false
+            },
+            "hide": false,
+            "order": 1,
+            "_id": "594389160af5b8224d3e0395",
+            "deletedAt": null,
+            "deleted": false,
+            "createdAt": "2017-06-16T07:30:30.906Z",
+            "updatedAt": "2018-01-08T06:14:46.474Z",
+            "courseId": "58d60011f0326f514e41e9d0",
+            "name": "iOS开发基础知识",
+            "id": "594389160af5b8224d3e0395",
+            "children": [
+                {
+                    "hls": {
+                        "mobileLow": "http://media.wanmen.org/6012ebbe-a0de-484f-a24b-83e2b8075fd4_mobile_low.m3u8?sign=c0da2f143a22b8750e5d0fff0fd4a189&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657",
+                        "pcLow": "https://media.wanmen.org/6012ebbe-a0de-484f-a24b-83e2b8075fd4_pc_low.m3u8?sign=8a115bd304e96b7ded5ed201c81434a7&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657",
+                        "pcHigh": "https://media.wanmen.org/6012ebbe-a0de-484f-a24b-83e2b8075fd4_pc_high.m3u8?sign=52470d19ed74466054ca0fb1bfc9afad&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657",
+                        "pcMid": "https://media.wanmen.org/6012ebbe-a0de-484f-a24b-83e2b8075fd4_pc_mid.m3u8?sign=e8c7f3294d461220d3de2173dd32a570&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657",
+                        "mobileMid": "http://media.wanmen.org/6012ebbe-a0de-484f-a24b-83e2b8075fd4_mobile_mid.m3u8?sign=5bb92192ef40aa33781fda95d6e94b2e&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": true
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "594389510af5b8224d3e039d",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2017-06-16T07:31:29.438Z",
+                    "updatedAt": "2017-12-23T04:10:44.584Z",
+                    "parentId": "594389160af5b8224d3e0395",
+                    "courseId": "58d60011f0326f514e41e9d0",
+                    "name": "iOS 开发整体介绍",
+                    "video": {},
+                    "id": "594389510af5b8224d3e039d",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "http://media.wanmen.org/955c5c82-2adc-483d-be01-faebd15df06b_mobile_low.m3u8?sign=7eecc01213a6b0bad0a0165a99337884&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657",
+                        "pcLow": "https://media.wanmen.org/955c5c82-2adc-483d-be01-faebd15df06b_pc_low.m3u8?sign=96c8bb8ed1674ae68d6d73866d805111&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657",
+                        "pcHigh": "https://media.wanmen.org/955c5c82-2adc-483d-be01-faebd15df06b_pc_high.m3u8?sign=e5689d8558a072710fae2ae09e3f2829&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657",
+                        "pcMid": "https://media.wanmen.org/955c5c82-2adc-483d-be01-faebd15df06b_pc_mid.m3u8?sign=8aa783d2399c76c5f8b9b9c3621a2142&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657",
+                        "mobileMid": "http://media.wanmen.org/955c5c82-2adc-483d-be01-faebd15df06b_mobile_mid.m3u8?sign=c771d69fcfdb5c253914271f4d3f8816&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": true
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5943895a0af5b8224d3e039f",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2017-06-16T07:31:38.089Z",
+                    "updatedAt": "2017-12-23T04:10:48.853Z",
+                    "parentId": "594389160af5b8224d3e0395",
+                    "courseId": "58d60011f0326f514e41e9d0",
+                    "name": "Xcode界面介绍",
+                    "video": {},
+                    "id": "5943895a0af5b8224d3e039f",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "http://media.wanmen.org/48eacf17-16a1-4853-a2e5-5801b4895ef1_mobile_low.m3u8?sign=c6135c748b9da1ebf2b2968d3b272374&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657",
+                        "pcLow": "https://media.wanmen.org/48eacf17-16a1-4853-a2e5-5801b4895ef1_pc_low.m3u8?sign=3dbc240610e95540490ad2c252796bf9&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657",
+                        "pcHigh": "https://media.wanmen.org/48eacf17-16a1-4853-a2e5-5801b4895ef1_pc_high.m3u8?sign=e266e276b97bd5ed76de4cb62a68323e&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657",
+                        "pcMid": "https://media.wanmen.org/48eacf17-16a1-4853-a2e5-5801b4895ef1_pc_mid.m3u8?sign=092e1234f2ff6130dba121797939f60a&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657",
+                        "mobileMid": "http://media.wanmen.org/48eacf17-16a1-4853-a2e5-5801b4895ef1_mobile_mid.m3u8?sign=7f23c23b0f91cea1515ea04de6cb12e6&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": true
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "594389620af5b8224d3e03a1",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2017-06-16T07:31:46.423Z",
+                    "updatedAt": "2017-12-23T04:10:53.342Z",
+                    "parentId": "594389160af5b8224d3e0395",
+                    "courseId": "58d60011f0326f514e41e9d0",
+                    "name": "Objective-C和Cocoa语法",
+                    "video": {},
+                    "id": "594389620af5b8224d3e03a1",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "http://media.wanmen.org/cf83cc8a-c250-4107-a720-2536f99bdb30_mobile_low.m3u8?sign=52eded00d14e4e7a47c37228dc9cdaa5&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657",
+                        "pcLow": "https://media.wanmen.org/cf83cc8a-c250-4107-a720-2536f99bdb30_pc_low.m3u8?sign=8cee5a6fae6ac8aed0fe6997e54445c2&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657",
+                        "pcHigh": "https://media.wanmen.org/cf83cc8a-c250-4107-a720-2536f99bdb30_pc_high.m3u8?sign=ea9b92409cbb7fe1c9693ed3b8304b5c&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657",
+                        "pcMid": "https://media.wanmen.org/cf83cc8a-c250-4107-a720-2536f99bdb30_pc_mid.m3u8?sign=6c8a3b8f49a36d216c35d57393b5c732&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657",
+                        "mobileMid": "http://media.wanmen.org/cf83cc8a-c250-4107-a720-2536f99bdb30_mobile_mid.m3u8?sign=041506ab0f5942f162f80ff7ecd79f0a&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": true
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5943896a0af5b8224d3e03a3",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2017-06-16T07:31:54.179Z",
+                    "updatedAt": "2017-12-23T04:11:00.228Z",
+                    "parentId": "594389160af5b8224d3e0395",
+                    "courseId": "58d60011f0326f514e41e9d0",
+                    "name": "对象",
+                    "video": {},
+                    "id": "5943896a0af5b8224d3e03a3",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "http://media.wanmen.org/dce0459b-6927-497c-86de-4ec4b8c2b571_mobile_low.m3u8?sign=ca7fe1a10bd20c85a5236d0bdaf2fbe1&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657",
+                        "pcLow": "https://media.wanmen.org/dce0459b-6927-497c-86de-4ec4b8c2b571_pc_low.m3u8?sign=879db4e7c89e2f285797f16b167d30ec&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657",
+                        "pcHigh": "https://media.wanmen.org/dce0459b-6927-497c-86de-4ec4b8c2b571_pc_high.m3u8?sign=5f5874334fb740a10dc638322194a242&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657",
+                        "pcMid": "https://media.wanmen.org/dce0459b-6927-497c-86de-4ec4b8c2b571_pc_mid.m3u8?sign=77b02359d5df61ed279bf113f2b5dceb&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657",
+                        "mobileMid": "http://media.wanmen.org/dce0459b-6927-497c-86de-4ec4b8c2b571_mobile_mid.m3u8?sign=2de18b7040fd4d33bbcb24135e2cad67&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": true
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "594389720af5b8224d3e03a5",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2017-06-16T07:32:02.435Z",
+                    "updatedAt": "2017-12-23T04:11:06.671Z",
+                    "parentId": "594389160af5b8224d3e0395",
+                    "courseId": "58d60011f0326f514e41e9d0",
+                    "name": "内存管理",
+                    "video": {},
+                    "id": "594389720af5b8224d3e03a5",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                }
+            ]
+        },
+        {
+            "hls": {},
+            "actions": {
+                "watch": false,
+                "download": false
+            },
+            "hide": false,
+            "order": 2,
+            "_id": "594389200af5b8224d3e0397",
+            "deletedAt": null,
+            "deleted": false,
+            "createdAt": "2017-06-16T07:30:40.475Z",
+            "updatedAt": "2018-01-08T06:15:25.692Z",
+            "courseId": "58d60011f0326f514e41e9d0",
+            "name": "iOS开发",
+            "id": "594389200af5b8224d3e0397",
+            "children": [
+                {
+                    "hls": {
+                        "mobileLow": "http://media.wanmen.org/f4273b6e-9bad-4585-90ad-d2865324f9b0_mobile_low.m3u8?sign=71fdd0d351130525afe79d145fea94e0&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657",
+                        "pcLow": "https://media.wanmen.org/f4273b6e-9bad-4585-90ad-d2865324f9b0_pc_low.m3u8?sign=03baf46f8fbcd0a0ebd4e818a9f417be&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657",
+                        "pcHigh": "https://media.wanmen.org/f4273b6e-9bad-4585-90ad-d2865324f9b0_pc_high.m3u8?sign=22187a5fd8975dd9f7bc58346c800927&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657",
+                        "pcMid": "https://media.wanmen.org/f4273b6e-9bad-4585-90ad-d2865324f9b0_pc_mid.m3u8?sign=3fac96d8792d333f6dbde9a6569a7995&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657",
+                        "mobileMid": "http://media.wanmen.org/f4273b6e-9bad-4585-90ad-d2865324f9b0_mobile_mid.m3u8?sign=ddd098a2d1ba59b33a6866003e1918bc&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": true
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5943897a0af5b8224d3e03a7",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2017-06-16T07:32:10.681Z",
+                    "updatedAt": "2017-12-23T04:11:24.263Z",
+                    "parentId": "594389200af5b8224d3e0397",
+                    "courseId": "58d60011f0326f514e41e9d0",
+                    "name": "程序调用",
+                    "video": {},
+                    "id": "5943897a0af5b8224d3e03a7",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "http://media.wanmen.org/5cef3ac8-3cf7-4d4a-94a4-338eb8ddafa9_mobile_low.m3u8?sign=dcca474724701347ef67e1cae11e2f24&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657",
+                        "pcLow": "https://media.wanmen.org/5cef3ac8-3cf7-4d4a-94a4-338eb8ddafa9_pc_low.m3u8?sign=df445a983b591347f574fb7ce4b9e8d5&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657",
+                        "pcHigh": "https://media.wanmen.org/5cef3ac8-3cf7-4d4a-94a4-338eb8ddafa9_pc_high.m3u8?sign=4544dbb261aa7b94821c5b418baf6525&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657",
+                        "pcMid": "https://media.wanmen.org/5cef3ac8-3cf7-4d4a-94a4-338eb8ddafa9_pc_mid.m3u8?sign=47c75f7908c668c9d1405c767e6c0cb7&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657",
+                        "mobileMid": "http://media.wanmen.org/5cef3ac8-3cf7-4d4a-94a4-338eb8ddafa9_mobile_mid.m3u8?sign=2a74fd52d012186934f87fc727d6ce0d&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": true
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "594389830af5b8224d3e03a9",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2017-06-16T07:32:19.608Z",
+                    "updatedAt": "2017-12-23T04:11:28.154Z",
+                    "parentId": "594389200af5b8224d3e0397",
+                    "courseId": "58d60011f0326f514e41e9d0",
+                    "name": "协议和委托",
+                    "video": {},
+                    "id": "594389830af5b8224d3e03a9",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "http://media.wanmen.org/ead13f87-2352-46b0-9fbc-fb9cf4729e7c_mobile_low.m3u8?sign=2a4d0c7178744310b570476639dae4e8&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657",
+                        "pcLow": "https://media.wanmen.org/ead13f87-2352-46b0-9fbc-fb9cf4729e7c_pc_low.m3u8?sign=9c3c5d179da0bfb6fc38de56f3519f60&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657",
+                        "pcHigh": "https://media.wanmen.org/ead13f87-2352-46b0-9fbc-fb9cf4729e7c_pc_high.m3u8?sign=6b5645e9872a5bd5626e4cca10adb841&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657",
+                        "pcMid": "https://media.wanmen.org/ead13f87-2352-46b0-9fbc-fb9cf4729e7c_pc_mid.m3u8?sign=632a97a7dfc6496c0f208a78a3b370e6&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657",
+                        "mobileMid": "http://media.wanmen.org/ead13f87-2352-46b0-9fbc-fb9cf4729e7c_mobile_mid.m3u8?sign=3f9c3bca9b3b6f9acc7c06362ab9961d&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": true
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5943898b0af5b8224d3e03ab",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2017-06-16T07:32:27.142Z",
+                    "updatedAt": "2017-12-23T04:11:32.526Z",
+                    "parentId": "594389200af5b8224d3e0397",
+                    "courseId": "58d60011f0326f514e41e9d0",
+                    "name": "Block",
+                    "video": {},
+                    "id": "5943898b0af5b8224d3e03ab",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "http://media.wanmen.org/0a6dd1fe-6aaf-4aad-ac7b-9a48dc511826_mobile_low.m3u8?sign=50f6f4838d7ef760cfcc2d302eafb1f0&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657",
+                        "pcLow": "https://media.wanmen.org/0a6dd1fe-6aaf-4aad-ac7b-9a48dc511826_pc_low.m3u8?sign=3c84cba5bbfc17e06bbc0b85fcac2cab&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657",
+                        "pcHigh": "https://media.wanmen.org/0a6dd1fe-6aaf-4aad-ac7b-9a48dc511826_pc_high.m3u8?sign=2b5fe94f3051f9be90676f596f948b79&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657",
+                        "pcMid": "https://media.wanmen.org/0a6dd1fe-6aaf-4aad-ac7b-9a48dc511826_pc_mid.m3u8?sign=6c61048f467331441e18e73a8013666b&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657",
+                        "mobileMid": "http://media.wanmen.org/0a6dd1fe-6aaf-4aad-ac7b-9a48dc511826_mobile_mid.m3u8?sign=263896891bd40948b7bb2fa933686915&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": true
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "594389920af5b8224d3e03ad",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2017-06-16T07:32:34.815Z",
+                    "updatedAt": "2017-12-23T04:11:36.096Z",
+                    "parentId": "594389200af5b8224d3e0397",
+                    "courseId": "58d60011f0326f514e41e9d0",
+                    "name": "关键词weak",
+                    "video": {},
+                    "id": "594389920af5b8224d3e03ad",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                }
+            ]
+        },
+        {
+            "hls": {},
+            "actions": {
+                "watch": false,
+                "download": false
+            },
+            "hide": false,
+            "order": 3,
+            "_id": "5943892e0af5b8224d3e0399",
+            "deletedAt": null,
+            "deleted": false,
+            "createdAt": "2017-06-16T07:30:54.489Z",
+            "updatedAt": "2018-01-08T06:15:11.110Z",
+            "courseId": "58d60011f0326f514e41e9d0",
+            "name": "总结与答疑",
+            "id": "5943892e0af5b8224d3e0399",
+            "children": [
+                {
+                    "hls": {
+                        "mobileLow": "http://media.wanmen.org/c536e691-eb1d-4ab7-b2ca-86d74d6e50b4_mobile_low.m3u8?sign=49b8083d081bdc06040736828be3efde&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657",
+                        "pcLow": "https://media.wanmen.org/c536e691-eb1d-4ab7-b2ca-86d74d6e50b4_pc_low.m3u8?sign=17f969864669f7eb9a2dabf8bf6fabc3&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657",
+                        "pcHigh": "https://media.wanmen.org/c536e691-eb1d-4ab7-b2ca-86d74d6e50b4_pc_high.m3u8?sign=32ae5332064d78ad34e65a84b01490f8&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657",
+                        "pcMid": "https://media.wanmen.org/c536e691-eb1d-4ab7-b2ca-86d74d6e50b4_pc_mid.m3u8?sign=623ed9168256acf32063e5342e4f6923&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657",
+                        "mobileMid": "http://media.wanmen.org/c536e691-eb1d-4ab7-b2ca-86d74d6e50b4_mobile_mid.m3u8?sign=2f52e8823b326e6033db5c3e21b732a5&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": true
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "5943899a0af5b8224d3e03af",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2017-06-16T07:32:42.155Z",
+                    "updatedAt": "2017-12-23T04:11:43.357Z",
+                    "parentId": "5943892e0af5b8224d3e0399",
+                    "courseId": "58d60011f0326f514e41e9d0",
+                    "name": "内容回顾总结",
+                    "video": {},
+                    "id": "5943899a0af5b8224d3e03af",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "http://media.wanmen.org/0f61e8fa-002c-428f-a5cd-0c37930745f1_mobile_low.m3u8?sign=fa11358465842260e5f3e4a3eb142d59&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657",
+                        "pcLow": "https://media.wanmen.org/0f61e8fa-002c-428f-a5cd-0c37930745f1_pc_low.m3u8?sign=c64bb6c47c4e9748cfcbb84dfdd8cb4b&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657",
+                        "pcHigh": "https://media.wanmen.org/0f61e8fa-002c-428f-a5cd-0c37930745f1_pc_high.m3u8?sign=f320b50eca5b95e9467642e0918f7707&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657",
+                        "pcMid": "https://media.wanmen.org/0f61e8fa-002c-428f-a5cd-0c37930745f1_pc_mid.m3u8?sign=19f75d7c95b2f098fb412ef413fc86ba&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657",
+                        "mobileMid": "http://media.wanmen.org/0f61e8fa-002c-428f-a5cd-0c37930745f1_mobile_mid.m3u8?sign=261545456021679d2ed3c941484e849e&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": true
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "594389a10af5b8224d3e03b1",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2017-06-16T07:32:49.777Z",
+                    "updatedAt": "2017-12-23T04:11:46.914Z",
+                    "parentId": "5943892e0af5b8224d3e0399",
+                    "courseId": "58d60011f0326f514e41e9d0",
+                    "name": "例题讲解（一）",
+                    "video": {},
+                    "id": "594389a10af5b8224d3e03b1",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                },
+                {
+                    "hls": {
+                        "mobileLow": "http://media.wanmen.org/ef346ae5-66e6-428e-b000-0d3980f27b99_mobile_low.m3u8?sign=7992d46e11b43948215f6e658681184b&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657",
+                        "pcLow": "https://media.wanmen.org/ef346ae5-66e6-428e-b000-0d3980f27b99_pc_low.m3u8?sign=b7e4b1774d5441d5579085fa17023809&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657",
+                        "pcHigh": "https://media.wanmen.org/ef346ae5-66e6-428e-b000-0d3980f27b99_pc_high.m3u8?sign=efc2cdcfa1a590667da9a8db44d29ed6&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657",
+                        "pcMid": "https://media.wanmen.org/ef346ae5-66e6-428e-b000-0d3980f27b99_pc_mid.m3u8?sign=8020c88e8ba1916347f103a15fbdbb51&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657",
+                        "mobileMid": "http://media.wanmen.org/ef346ae5-66e6-428e-b000-0d3980f27b99_mobile_mid.m3u8?sign=300f0ba4c00297d93511911ec661d369&t=5bd82ee4&r=f2cc46db8435c82c7b705e52607ea657"
+                    },
+                    "actions": {
+                        "watch": true,
+                        "download": true
+                    },
+                    "hide": false,
+                    "order": 0,
+                    "_id": "594389ab0af5b8224d3e03b3",
+                    "deletedAt": null,
+                    "deleted": false,
+                    "createdAt": "2017-06-16T07:32:59.511Z",
+                    "updatedAt": "2017-12-23T04:11:51.896Z",
+                    "parentId": "5943892e0af5b8224d3e0399",
+                    "courseId": "58d60011f0326f514e41e9d0",
+                    "name": "例题讲解、答疑",
+                    "video": {},
+                    "id": "594389ab0af5b8224d3e03b3",
+                    "hasTopic": false,
+                    "opDuration": 8,
+                    "edDuration": 10
+                }
+            ]
+        }
+    ],
+    "hasTopic": false
+}
